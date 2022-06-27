@@ -140,8 +140,8 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 ### Canadian High School Technology Teacher, with Greater than 30 years teaching Coding. 
 ### Presently teaching Animation, Coding, 3D Printing and Robotics with Machine Learning 
 
-### I started my Data Science interest when I tried to understand why I couldn't play an instrument very well. <a href="https://rocksetta.com/">https://rocksetta.com/</a>. this project is ongoing :) 
-### In the 1990's I was dsigning fully connected Neural Networks. (Not that hard to program), but they never worked for me, So I did other things until until Tensorflow was made public in 2015.
+### I started my Data Science interest when I tried to understand why I couldn't play an instrument very well. <a href="https://rocksetta.com/">https://rocksetta.com/</a>. This project is ongoing  :smile:
+### In the early 1990's I was designing fully connected Neural Networks using Quick Pascal. (Not that hard to program), but they never worked for me, they just kept oscillating between options, So I did other things until Tensorflow was made public in 2015.
  
  
  
@@ -163,7 +163,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 #### 3
 # Future: 
  
-### I believe all educated people should have some form of hands on Robotics and Machine Learning Education. It doesn't matter if you are at University to become a Lawyer, Accountant, Scientist, Educator or any field.  Machine Learning is here to have an enormous effect both good and bad on all areas of our lifes. Knowing how Deep Learning works might be the most important thing Educators teach.
+### I believe all educated people should have some form of hands on Robotics and Machine Learning Education. It doesn't matter if the person is at University to become a Lawyer, Accountant, Scientist, Educator or any field.  Machine Learning is here, and will have an enormous effect both good and bad on all areas of our lifes. Knowing how deep learning works might be the most important thing Educators teach.
 
  
 
