@@ -2,7 +2,7 @@
 
 
 
-##### version 0.0.1-3 updated June, 2022
+##### version 0.0.1-4 updated June, 2022
 
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
  
@@ -120,19 +120,24 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  </div>
 
 #### 1
-## Intro: What are Ligthning Talks in Pecha Kucha Format 
- (<= 15 Slides, 20 seconds per Slide) 
+## Intro: Ligthning Talks in Pecha Kucha Format 
+## ~15 Slides, 20 seconds per Slide works out to about 5 min per presenter
+## traditional Format: Powerpoint, PDF,
+## But Coders use Github
+## So I made the Github README.md file work with Javascript
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 
 #### 2
-## Me:
+# Who:
 
-I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>
-Canadian High School Technology Teacher, with Greater than 30 years teaching Coding. Presently teaching Animation, Coding, 3D Printing and Robotics with Machine Learning 
+## I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>
+##  <a href="https://github.com/hpssjellis?tab=repositories"> Github Profile</a>
+## Canadian High School Technology Teacher, with Greater than 30 years teaching Coding. 
+## Presently teaching Animation, Coding, 3D Printing and Robotics with Machine Learning 
 
 <!--   Keep for reference
 Show how to do images and links. Note: To get the url just paste an image right here
@@ -148,11 +153,9 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 
 #### 3
-## Future: 
+# Future: 
  
-I believe all educated people should have some hands on Robotics and Machine Learning Education. 
-Doesn't matter if you are at University to become a Lawyer, Accountant, Scientist, Educator or any field.  Machine Learning is here to have an enormous 
-effect both good and bad on all areas of our lifes.
+## I believe all educated people should have some forom of hands on Robotics and Machine Learning Education. Doesn't matter if you are at University to become a Lawyer, Accountant, Scientist, Educator or any field.  Machine Learning is here to have an enormous effect both good and bad on all areas of our lifes. Knowing how Deep Learning works might be the most important thing Educators teach.
 
  
 
@@ -161,9 +164,9 @@ effect both good and bad on all areas of our lifes.
 
 
 #### 4
-## Keras, Tensorflow, Pytorch, Theano ...
+# <a href="https://keras.io/">Keras</a>, <a href="https://www.tensorflow.org/">Tensorflow</a> , <a href="https://pytorch.org/">Pytorch</a>, <a href="https://theano-pymc.readthedocs.io/en/latest/introduction.html">Theano</a> ...
  
-The traditional way to teach Machine Learning and the subset Deep Learning is with these platforms, which typically involve only the computer and not directly using sensors and/or sending output to actuators. Typically a known dataset is loaded and the Machine Learning model is manipulated to demonstrate understanding of the concept with the output to the computer screen. 
+The traditional way to teach Machine Learning and the subset Deep Learning is with these platforms. Mainly for students with some advanced Math skills. These platforms typically involve only the computer and not directly using sensors and/or sending output to actuators. Typically a known dataset is loaded and the Machine Learning model is manipulated to demonstrate understanding of the concept with the output generated for the computer screen. 
 
  Note: <a href="https://gitpod.io/">https://gitpod.io/</a> can help enorously with teaching the above as most Github sites can be loaded into Gitpod (an online Browser docker) and ran with only a few starting commands. With a github login you just need to add to the front of a github URL ``` gitpod.io/#  ```
  
@@ -174,7 +177,7 @@ The traditional way to teach Machine Learning and the subset Deep Learning is wi
 <hr>
 
 #### 5
- ## <a href="https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit">Arduino Tiny Machine Learning Kit</a>
+# <a href="https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit">Arduino Tiny Machine Learning Kit</a>
  
  Very well supported by both Harvard SEAS (School of Engineering and Applied Science) Education <a href="http://tinyml.seas.harvard.edu/">TinyMLEdu</a>  The Github at <a href="https://github.com/tinyMLx/courseware/tree/master/edX">tinyMLx Github</a>
  
@@ -186,7 +189,7 @@ Often a univeresity can get a few free sets of the Arduino Tiny Machine Learning
 <hr>
 
 #### 6
-## My Maker100 
+# My Maker100 
 
 For the <a href="https://store-usa.arduino.cc/products/portenta-h7">Arduino PortentaH7</a> with the <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE">LoRa Vision Shield</a> and <a href="https://www.seeedstudio.com/Seeeduino-XIAO-Pre-Soldered-p-4747.html">Seeedstudio XIAO </a>  Github of my course at <a href="https://github.com/hpssjellis/maker100">https://github.com/hpssjellis/maker100</a>
 
@@ -198,7 +201,7 @@ I belive that Machine Learning needs to be taught within an undersgtanding of Ro
 <hr>
 
 #### 7
-## <a href="https://www.amazon.ca/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27">Raspebby Pi 4B</a>
+# <a href="https://www.amazon.ca/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27">Raspberry Pi 4B</a>
 All RPI's and other single board computers such as the <a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-2GB-Developer-Kit-Wireless-Adapter-Included-p-4707.html">NVIDIA® Jetson Nano™ 2GB Developer Kit </a> 
 
 
@@ -207,21 +210,21 @@ All RPI's and other single board computers such as the <a href="https://www.seee
 <hr>
 
 #### 8
-## TensorflowJS
+# <a href="https://www.tensorflow.org/js/">TensorflowJS</a> Can reach a large Web capable audience
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 #### 9
-## TinyML should be inexpensive
+# TinyML should be inexpensive
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 10
-## New Hardware 2023
+# New Hardware 2023
  
  
  
@@ -230,7 +233,7 @@ All RPI's and other single board computers such as the <a href="https://www.seee
 <hr>
 
 #### 11
-## WebSerial Possible Solution
+# WebSerial Possible Teaching Potential
  
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -238,7 +241,7 @@ All RPI's and other single board computers such as the <a href="https://www.seee
 <hr>
 
 #### 12
-## Maker101 More Advanced
+# Maker101 Model Manipulation and After Classification Analysis
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -252,7 +255,7 @@ All RPI's and other single board computers such as the <a href="https://www.seee
 <hr>
 
 #### 14
- ## <a href="https://www.voltera.io/">Voltera.io </a>
+ ## <a href="https://www.voltera.io/">Voltera.io </a> PCB Making
  
  The chip shortage is really making it obvious that making PCB's is a necessary skill tht has many global dependencies.
  
@@ -266,8 +269,13 @@ All RPI's and other single board computers such as the <a href="https://www.seee
 ## Exit
  
  I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a> Canadian High School Technology Teacher
+ 
+ <a href="https://github.com/hpssjellis?tab=repositories"> Github Profile</a>
+ <a href="https://ca.linkedin.com/in/jeremy-ellis-4237a9bb">Linkedin </a>  
  Use this information at your own risk!
  
+ Unlike a Powerpoint presentation this material can be updated with a newer version as mistakes are corrected. 
+ A new recording of  ```recorded-talk.m4a``` should be made if the changes are substantial.
  
  
 
