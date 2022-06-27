@@ -2,7 +2,7 @@
 
 
 
-##### version 0.0.1-2 updated June, 2022
+##### version 0.0.1-3 updated June, 2022
 
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
  
@@ -150,9 +150,12 @@ Show how to do images and links. Note: To get the url just paste an image right 
 #### 3
 ## Future: 
  
-I believe all educated people should have some hands on Robotics and Machine Learning
+I believe all educated people should have some hands on Robotics and Machine Learning Education. 
+Doesn't matter if you are at University to become a Lawyer, Accountant, Scientist, Educator or any field.  Machine Learning is here to have an enormous 
+effect both good and bad on all areas of our lifes.
+
  
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
@@ -162,7 +165,9 @@ I believe all educated people should have some hands on Robotics and Machine Lea
  
 The traditional way to teach Machine Learning and the subset Deep Learning is with these platforms, which typically involve only the computer and not directly using sensors and/or sending output to actuators. Typically a known dataset is loaded and the Machine Learning model is manipulated to demonstrate understanding of the concept with the output to the computer screen. 
 
-
+ Note: <a href="https://gitpod.io/">https://gitpod.io/</a> can help enorously with teaching the above as most Github sites can be loaded into Gitpod (an online Browser docker) and ran with only a few starting commands. With a github login you just need to add to the front of a github URL ``` gitpod.io/#  ```
+ 
+ My Gitpod  (old) examples are <a href="https://hpssjellis.github.io/rocksetta-gitpod-links/">rocksetta-gitpod-links</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -202,87 +207,79 @@ All RPI's and other single board computers such as the <a href="https://www.seee
 <hr>
 
 #### 8
-
+## TensorflowJS
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 #### 9
-
+## TinyML should be inexpensive
+ 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 10
-
+## New Hardware 2023
+ 
+ 
+ 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 11
-
+## WebSerial Possible Solution
+ 
+ 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 12
-
+## Maker101 More Advanced
+ 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 13
-
+## Other Boards
+ 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 14
-
+ ## <a href="https://www.voltera.io/">Voltera.io </a>
+ 
+ The chip shortage is really making it obvious that making PCB's is a necessary skill tht has many global dependencies.
+ 
+<a href="https://www.voltera.io/">Voltera.io </a> is a possible educational solution, similar to a 3D printer, but for PCB's. Takes a set size small board, drills wholes, prints traces, manual connect Vias, print solder paste, manual place SMD's (surface mount components), auto heat, long cool down. Uses very low temperature silver solder for Through-hole-technology (THT) components.
+ 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 15
-
-At 20 seconds per page and 15 slides this would be the end of a 5 min presentation
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
-#### 16
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
-#### 17
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
-#### 18
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
-#### 19
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
-#### 20
+## Exit
+ 
+ I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a> Canadian High School Technology Teacher
+ Use this information at your own risk!
+ 
+ 
+ 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
