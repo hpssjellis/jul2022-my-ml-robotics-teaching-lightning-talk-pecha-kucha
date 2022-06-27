@@ -2,7 +2,7 @@
 
 
 
-##### version 0.6.4-85
+##### version 0.0.1-1
 
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
  
@@ -260,7 +260,7 @@ At 20 seconds per page and 15 slides this would be the end of a 5 min presentati
 
 
 
-
+Template for this from https://github.com/hpssjellis/pecha-kucha-lightning-talks-template
 
 
 
