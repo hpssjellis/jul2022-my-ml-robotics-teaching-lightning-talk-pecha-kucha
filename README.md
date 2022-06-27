@@ -162,7 +162,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 #### 3
 # Future: 
  
-## I believe all educated people should have some forom of hands on Robotics and Machine Learning Education. Doesn't matter if you are at University to become a Lawyer, Accountant, Scientist, Educator or any field.  Machine Learning is here to have an enormous effect both good and bad on all areas of our lifes. Knowing how Deep Learning works might be the most important thing Educators teach.
+## I believe all educated people should have some form of hands on Robotics and Machine Learning Education. It doesn't matter if you are at University to become a Lawyer, Accountant, Scientist, Educator or any field.  Machine Learning is here to have an enormous effect both good and bad on all areas of our lifes. Knowing how Deep Learning works might be the most important thing Educators teach.
 
  
 
