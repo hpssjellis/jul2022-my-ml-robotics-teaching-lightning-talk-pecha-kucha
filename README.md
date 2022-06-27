@@ -129,7 +129,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 
 #### 2
-##I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>
+## I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>
 Canadian >30 Year High School Technology Teacher, Presently teaching Animation, Coding, 3D Printing and Robotics with Machine Learning 
 
 <!--   Keep for reference
