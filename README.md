@@ -128,7 +128,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 ### So I made the Github README.md file work with Javascript
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <hr>
 
 
@@ -137,7 +137,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 ### I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>
 ### <a href="https://github.com/hpssjellis?tab=repositories"> Github Profile</a>
-### Canadian High School Technology Teacher, with Greater than 30 years teaching Coding. 
+### Canadian High School Technology Teacher, with greater than 30 years teaching coding. 
 ### Presently teaching Animation, Coding, 3D Printing and Robotics with Machine Learning 
 
 ### I started my Data Science interest when I tried to understand why I couldn't play an instrument very well. <a href="https://rocksetta.com/">https://rocksetta.com/</a>. This project is ongoing  :smile:
@@ -156,7 +156,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 -->
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <hr>
 
 
@@ -167,7 +167,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
  
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <hr>
 
 
@@ -176,12 +176,12 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 ### The traditional way to teach Machine Learning and the subset Deep Learning is with these platforms. Mainly for students with some advanced Math skills. These platforms typically involve only the computer and not directly using sensors and/or sending output to actuators. Typically a known dataset is loaded and the Machine Learning model is manipulated to demonstrate understanding of the concept with the output generated for the computer screen. 
 
- ### Note: <a href="https://gitpod.io/">https://gitpod.io/</a> can help enorously with teaching the above as most Github sites can be loaded into Gitpod (an online Browser docker) and ran with only a few starting commands. With a github login you just need to add to the front of a github URL ``` gitpod.io/#  ```
+### Note: <a href="https://gitpod.io/">https://gitpod.io/</a> can help enorously with teaching the above as most Github sites can be loaded into Gitpod (an online Browser docker) and ran with only a few starting commands. With a github login you just need to add to the front of a github URL ``` gitpod.io/#  ```
  
- ### My Gitpod  (old) examples are <a href="https://hpssjellis.github.io/rocksetta-gitpod-links/">rocksetta-gitpod-links</a>
+### My Gitpod  (old) examples are <a href="https://hpssjellis.github.io/rocksetta-gitpod-links/">rocksetta-gitpod-links</a>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 5
@@ -191,9 +191,9 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 ### Also by <a href="https://edgeimpulse.com/university">EdgeImpulse University</a> Github of the course at <a href="https://github.com/edgeimpulse/courseware-embedded-machine-learning">courseware-embedded-machine-learning</a>
  
-### Often a univeresity can get a few free sets of the Arduino Tiny Machine Learning Kit or other hardware from either of these groups.
+### Often a university can get a few free sets of the Arduino Tiny Machine Learning Kits or other hardware from either of these groups.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <hr>
 
 #### 6
@@ -205,7 +205,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 ### I belive that Machine Learning needs to be taught within an undersgtanding of Roboitcs sensors (flex, touch, light...), actuators (DC motors, stepper, servo, LED's... ), communication (Ethernet, WiFI, BLE, LoRa) and pcb design. So this course quickly touches on all these areas and leaves more advanced topics to the as yet not develpped <a href="https://github.com/hpssjellis/maker101">Maker101</a> course.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <hr>
 
 #### 7
@@ -214,7 +214,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 ### All RPI's and other single board computers such as the <a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-2GB-Developer-Kit-Wireless-Adapter-Included-p-4707.html">NVIDIA® Jetson Nano™ 2GB Developer Kit </a> 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
@@ -223,7 +223,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 ### In 2017 TensorflowJS was introduced originally as deeplearnJS, using TypeScript and some Compiler Javascript. I spent a lot of time converting the @Google Brain code for Single page Vanilla Javascript that might students could use without installing anything, <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">beginner-tensorflowjs-examples-in-javascript</a>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 #### 9
@@ -273,7 +273,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
  ### I have asked my school to purchase a V-One, but the $6000 USD price tag might be to steep. Perhaps someone hass a suggestion for how to get a grant to get one of these.
  
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
