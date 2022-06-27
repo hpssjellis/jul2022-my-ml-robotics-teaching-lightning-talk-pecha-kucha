@@ -2,7 +2,7 @@
 
 
 
-##### version 0.0.1-1
+##### version 0.0.1-2 updated June, 2022
 
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
  
@@ -129,8 +129,10 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 
 #### 2
-## I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>
-Canadian >30 Year High School Technology Teacher, Presently teaching Animation, Coding, 3D Printing and Robotics with Machine Learning 
+## Me:
+
+I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>
+Canadian High School Technology Teacher, with Greater than 30 years teaching Coding. Presently teaching Animation, Coding, 3D Printing and Robotics with Machine Learning 
 
 <!--   Keep for reference
 Show how to do images and links. Note: To get the url just paste an image right here
@@ -154,33 +156,46 @@ I believe all educated people should have some hands on Robotics and Machine Lea
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
+
 #### 4
- ## <a href="https://github.com/hpssjellis/maker100">Maker 100</a>
+## Keras, Tensorflow, Pytorch, Theano ...
  
-My main Robotics and Machine Learning course is called <a href="https://github.com/hpssjellis/maker100">Maker 100</a> and is fully on Github, with plans to make all parts available for indivdual purchase and a fully online componenet for technologically capable teenagers to follow before going to University.
- 
+The traditional way to teach Machine Learning and the subset Deep Learning is with these platforms, which typically involve only the computer and not directly using sensors and/or sending output to actuators. Typically a known dataset is loaded and the Machine Learning model is manipulated to demonstrate understanding of the concept with the output to the computer screen. 
+
+
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 5
-## Keras, Tensorflow, Pytorch, Theano ...
+ ## <a href="https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit">Arduino Tiny Machine Learning Kit</a>
  
-The traditional way to teach Machine Learning and the subset Deep Learning is with these platforms, which typically involve only the computer and not directly using sensors and sending output to actuators other than the computer screen.
+ Very well supported by both Harvard SEAS (School of Engineering and Applied Science) Education <a href="http://tinyml.seas.harvard.edu/">TinyMLEdu</a>  The Github at <a href="https://github.com/tinyMLx/courseware/tree/master/edX">tinyMLx Github</a>
+ 
+ And also by <a href="https://edgeimpulse.com/university">EdgeImpulse University</a> Github of the course at <a href="https://github.com/edgeimpulse/courseware-embedded-machine-learning">courseware-embedded-machine-learning</a>
+ 
+Often a univeresity can get a few free sets of the Arduino Tiny Machine Learning Kit or other hardware from either of these groups.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 6
- ## <a href="https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit">Arduino Tiny Machine Learning Kit</a>
- 
- Very well supported by both Harvard SEAS at <a href="https://github.com/tinyMLx/courseware/tree/master/edX">tinyMLx Github</a>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+## My Maker100 
+
+For the <a href="https://store-usa.arduino.cc/products/portenta-h7">Arduino PortentaH7</a> with the <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE">LoRa Vision Shield</a> and <a href="https://www.seeedstudio.com/Seeeduino-XIAO-Pre-Soldered-p-4747.html">Seeedstudio XIAO </a>  Github of my course at <a href="https://github.com/hpssjellis/maker100">https://github.com/hpssjellis/maker100</a>
+
+My main Robotics and Machine Learning course is called <a href="https://github.com/hpssjellis/maker100">Maker 100</a> and is fully on Github, with plans to make all parts available for indivdual purchase and a fully online componenet for technologically capable teenagers to follow before going to University.
+
+I belive that Machine Learning needs to be taught within an undersgtanding of Roboitcs sensors (flex, touch, light...), actuators (DC motors, stepper, servo, LED's... ), communication (Ethernet, WiFI, BLE, LoRa) and pcb design. So this course quickly touches on all these areas and leaves more advanced topics to the as yet not develpped <a href="https://github.com/hpssjellis/maker101">Maker101</a> course.
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 7
+## <a href="https://www.amazon.ca/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27">Raspebby Pi 4B</a>
+All RPI's and other single board computers such as the <a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-2GB-Developer-Kit-Wireless-Adapter-Included-p-4707.html">NVIDIA® Jetson Nano™ 2GB Developer Kit </a> 
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -188,10 +203,11 @@ The traditional way to teach Machine Learning and the subset Deep Learning is wi
 
 #### 8
 
+
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
-
 #### 9
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
