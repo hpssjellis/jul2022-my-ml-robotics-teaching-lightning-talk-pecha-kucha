@@ -121,6 +121,8 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  </div>
 
 #### 1
+## Intro: What are Ligthning Talks in Pecha Kucha Format 
+ (<= 15 Slides, 20 seconds per Slide) 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -128,38 +130,53 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 
 #### 2
+##I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>
+Canadian >30 Year High School Technology Teacher, Presently teaching Animation, Coding, 3D Printing and Robotics with Machine Learning 
 
-
+<!--   Keep for reference
 Show how to do images and links. Note: To get the url just paste an image right here
 
 <img src="https://user-images.githubusercontent.com/5605614/175780835-2b0d64a4-0ba8-4c90-9f05-fb4e89cd6980.png" width=700 />
 
 [https://github.com/hpssjellis](https://github.com/hpssjellis)
 
+-->
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 
 #### 3
-
+## Future: 
+ 
+I believe all educated people should have some hands on Robotics and Machine Learning
+ 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 4
-
+ ## <a href="https://github.com/hpssjellis/maker100">Maker 100</a>
+ 
+My main Robotics and Machine Learning course is called <a href="https://github.com/hpssjellis/maker100">Maker 100</a> and is fully on Github, with plans to make all parts available for indivdual purchase and a fully online componenet for technologically capable teenagers to follow before going to University.
+ 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 5
+## Keras, Tensorflow, Pytorch, Theano ...
+ 
+The traditional way to teach Machine Learning and the subset Deep Learning is with these platforms, which typically involve only the computer and not directly using sensors and sending output to actuators other than the computer screen.
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 6
-
+ ## <a href="https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit">Arduino Tiny Machine Learning Kit</a>
+ 
+ Very well supported by both Harvard SEAS at <a href="https://github.com/tinyMLx/courseware/tree/master/edX">tinyMLx Github</a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
