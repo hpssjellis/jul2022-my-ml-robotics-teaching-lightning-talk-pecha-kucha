@@ -120,7 +120,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  </div>
 
 #### 1
-## Intro: Ligthning Talks in Pecha Kucha Format 
+## Intro: Lightning Talks in Pecha Kucha Format 
 ## ~15 Slides, 20 seconds per Slide works out to about 5 min per presenter
 ## traditional Format: Powerpoint, PDF,
 ## But Coders use Github
