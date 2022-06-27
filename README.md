@@ -1,6 +1,6 @@
 
 
-### Vanila Javascript Lightning Talk Pech Jucha Markdown README.md
+
 
 ##### version 0.6.4-85
 
