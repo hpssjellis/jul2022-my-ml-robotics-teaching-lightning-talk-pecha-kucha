@@ -120,11 +120,12 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  </div>
 
 #### 1
-## Intro: Lightning Talks in Pecha Kucha Format 
-## ~15 Slides, 20 seconds per Slide works out to about 5 min per presenter
-## traditional Format: Powerpoint, PDF,
-## But Coders use Github
-## So I made the Github README.md file work with Javascript
+# Intro: Lightning Talks in Pecha Kucha Format 
+
+### ~15 Slides, 20 seconds per Slide works out to about 5 min per presenter
+### Traditional Format: Powerpoint, PDF,
+### But Coders use Github
+### So I made the Github README.md file work with Javascript
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
