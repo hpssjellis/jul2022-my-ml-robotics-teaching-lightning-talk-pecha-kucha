@@ -138,7 +138,14 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 ##  <a href="https://github.com/hpssjellis?tab=repositories"> Github Profile</a>
 ## Canadian High School Technology Teacher, with Greater than 30 years teaching Coding. 
 ## Presently teaching Animation, Coding, 3D Printing and Robotics with Machine Learning 
-
+## 
+## I started my Data Science interest when I tried to understand why I couldn't play an instrument very well. <a href="https://rocksetta.com/">https://rocksetta.com/</a>. this project is ongoing :) 
+## In the 1990's I was dsigning fully connected Neural Networks. (Not that hard to program), but they never worked for me, So I did other things until until Tensorflow was made public in 2015.
+ 
+ 
+ 
+ 
+ 
 <!--   Keep for reference
 Show how to do images and links. Note: To get the url just paste an image right here
 
@@ -212,6 +219,7 @@ All RPI's and other single board computers such as the <a href="https://www.seee
 #### 8
 # <a href="https://www.tensorflow.org/js/">TensorflowJS</a> Can reach a large Web capable audience
 
+ In 2017 TensorflowJS was introduced originally as deeplearnJS, using TypeScript and some Compiler Javascript. I spent a lot of time converting the @Google Brain code for Single page Vanilla Javascript that might students could use without installing anything, <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">beginner-tensorflowjs-examples-in-javascript</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -240,7 +248,7 @@ All RPI's and other single board computers such as the <a href="https://www.seee
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
-#### 12
+#### 1
 # Maker101 Model Manipulation and After Classification Analysis
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
