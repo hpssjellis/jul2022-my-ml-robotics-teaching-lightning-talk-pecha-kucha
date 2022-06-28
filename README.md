@@ -274,13 +274,13 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 #### 13
 ## Boards other than the $57.50 <a href="https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit">Arduino ML Kit</a> and $111 <a href="https://store-usa.arduino.cc/products/portenta-h7">PortentaH7</a> mentioned earlier)
-1. The $5.40 USD [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)  Only a limited number of pins, but works with my Arduino MBED code<br><img src="https://user-images.githubusercontent.com/5605614/176248216-7a99f725-e3c6-4698-a1e5-56bfd34dcf54.png" width = 50/><br>
-2. The $37 USD [Seeeduino Wio Terminal](https://www.seeedstudio.com/Wio-Terminal-p-4509.html) <br><img src="https://user-images.githubusercontent.com/5605614/176248954-38cad413-3c2d-47cb-84a3-60359ba7e863.png" width = 100/>   
-3. The $115.00 USD [NiclaVision](https://store-usa.arduino.cc/products/nicla-vision?selectedStore=us) could be very good for Color Vision, sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/157479032-f93ac6e1-1139-4886-bf40-9dfc6e8c2b9c.png" width = 100/>
-4. The $33.40 USD [Nano 33 Ble Sense](https://store.arduino.cc/usa/nano-33-ble-sense-with-headers) is very good for sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/176252302-5f9474d1-07cc-4912-ae73-cc96aaeed92c.png" style="transform:rotate(90deg);" width = 75/>
-5. The $129 USD [Sony Spresense Kit](https://shop.framos.com/us/spresense) with Breakout Board and Camera and now works on the Arduino IDE. Absolutely nothing wrong with this board, I have just not yet got it doing Machine Learning on the Arduino IDE yet. Note: uses LED0, LED1, LED2, LED3 instead of LEDB, LEDG, LEDR <br><img src="https://user-images.githubusercontent.com/5605614/176248308-bad3aaa0-fa86-4b34-9a98-e140af242199.png" style="transform:rotate(90deg);" width = 75/>
-6. The $25.50 USD [Arduino Nano-RP2040-Connect](https://store.arduino.cc/usa/nano-rp2040-connect-with-headers) Is very new but has lots of potential over the RPI Pico as it has WiFi and BLE onboard and the $4 USD [RPIi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) Amazing board for the price. <br><img src="https://user-images.githubusercontent.com/5605614/176248392-4cfa47f3-5533-40eb-a8f6-00b2faef2ae8.png" style="transform:rotate(90deg);" width = 40/> 
-7. The $25.00 USD [ArducamPico-4ML](https://www.arducam.com/raspberry-pi-pico-machine-learning/) This board looks like it would be perfect for machine learning with a mini screen and camera but I have never got it properly working on the Arduino IDE.<br><img src="https://user-images.githubusercontent.com/5605614/176248456-b4cda708-2995-4f6b-8d02-47915015c2fb.png" style="transform:rotate(90deg);" width = 75/> 
+1. The $5.40 USD [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)  Only a limited number of pins, but works with my Arduino MBED code<br><img src="https://user-images.githubusercontent.com/5605614/176248216-7a99f725-e3c6-4698-a1e5-56bfd34dcf54.png" width = 40/><br>
+2. The $37 USD [Seeeduino Wio Terminal](https://www.seeedstudio.com/Wio-Terminal-p-4509.html) <br><img src="https://user-images.githubusercontent.com/5605614/176248954-38cad413-3c2d-47cb-84a3-60359ba7e863.png" width = 70/>   
+3. The $115.00 USD [NiclaVision](https://store-usa.arduino.cc/products/nicla-vision?selectedStore=us) could be very good for Color Vision, sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/157479032-f93ac6e1-1139-4886-bf40-9dfc6e8c2b9c.png" width = 70/>
+4. The $33.40 USD [Nano 33 Ble Sense](https://store.arduino.cc/usa/nano-33-ble-sense-with-headers) is very good for sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/176252302-5f9474d1-07cc-4912-ae73-cc96aaeed92c.png" width = 55/>
+5. The $129 USD [Sony Spresense Kit](https://shop.framos.com/us/spresense) with Breakout Board and Camera and now works on the Arduino IDE. Absolutely nothing wrong with this board, I have just not yet got it doing Machine Learning on the Arduino IDE yet. Note: uses LED0, LED1, LED2, LED3 instead of LEDB, LEDG, LEDR <br><img src="https://user-images.githubusercontent.com/5605614/176248308-bad3aaa0-fa86-4b34-9a98-e140af242199.png"  width = 55/>
+6. The $25.50 USD [Arduino Nano-RP2040-Connect](https://store.arduino.cc/usa/nano-rp2040-connect-with-headers) Is very new but has lots of potential over the RPI Pico as it has WiFi and BLE onboard and the $4 USD [RPIi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) Amazing board for the price. <br><img src="https://user-images.githubusercontent.com/5605614/176248392-4cfa47f3-5533-40eb-a8f6-00b2faef2ae8.png"  width = 20/> 
+7. The $25.00 USD [ArducamPico-4ML](https://www.arducam.com/raspberry-pi-pico-machine-learning/) This board looks like it would be perfect for machine learning with a mini screen and camera but I have never got it properly working on the Arduino IDE.<br><img src="https://user-images.githubusercontent.com/5605614/176248456-b4cda708-2995-4f6b-8d02-47915015c2fb.png"  width = 50/> 
 
 
 
@@ -291,12 +291,14 @@ Show how to do images and links. Note: To get the url just paste an image right 
 #### 14
 ## <a href="https://www.voltera.io/">Voltera.io </a> PCB Making
  
-### The chip shortage is really making it obvious that in house making of PCB's as a necessary skill.
+### The chip shortage is really making it obvious that in-house making of PCB's as a necessary skill.
  
 ### <a href="https://www.voltera.io/">Voltera.io </a> is a possible educational solution, similar to a 3D printer, but for PCB's. Takes a set size small board, drills holes, manual install copper vias, prints traces, print solder paste, manual place SMD's (surface mount components), auto heat, long cool down. Uses very low temperature silver solder for through-hole-technology (THT) components.
  
 ### I have asked my school to purchase a V-One, but the $6000 USD price tag might be to steep. Perhaps someone has a suggestion for how to get a grant to get one of these?
  
+ ![image](https://user-images.githubusercontent.com/5605614/176255114-435ef8c9-1989-4761-ae3b-daebea51492f.png)
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
