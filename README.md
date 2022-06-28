@@ -2,7 +2,7 @@
 
 
 
-##### version 0.0.3-7 updated June, 2022
+##### version 0.0.3-8 updated June, 2022
 
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
  
@@ -214,12 +214,12 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 ### I belive that Machine Learning needs to be taught within an understanding of Robotic sensors (flex, touch, light...), actuators (DC motors, stepper, servo, LED's... ), communication (Ethernet, WiFI, BLE, LoRa) and PCB design ( best PCB video <a href="https://www.youtube.com/watch?v=gjPNYMRA0m8&list=PLbKMtvtYbdPMZfzGuVTdc0MWKrFvU4nsu&index=3">here</a>). The Maker100 course quickly touches on all these areas and leaves more advanced topics to the as yet not developed <a href="https://github.com/hpssjellis/maker101">Maker101</a> course.
 
-<br><br><br><br><br><br><br>
+![image](https://user-images.githubusercontent.com/5605614/176285054-ea98ff42-df6e-408a-b7c8-f480d5912d73.png)
 <hr>
 
 #### 7
 # <a href="https://www.amazon.ca/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27">Raspberry Pi 4B</a>
-### All RPI's and other single board computers such as the <a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-2GB-Developer-Kit-Wireless-Adapter-Included-p-4707.html">NVIDIA® Jetson Nano™ 2GB Developer Kit </a> have the advantage of near full computer power with up to 40 pins for connectivity to sensors, actuators and built in Com.. Really the best situation, except for the larger amount of electricity used, hardware cost and larger size compared to other microcontrollers.
+### All RPI's and other single board computers such as the <a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-2GB-Developer-Kit-Wireless-Adapter-Included-p-4707.html">NVIDIA® Jetson Nano™ 2GB Developer Kit </a> have the advantage of near full computer power with up to 40 pins for connectivity to sensors, actuators and built in Communication. Really the best situation, except for the larger amount of electricity used, hardware cost and larger size compared to other microcontrollers.
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -228,7 +228,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 #### 8
 # TinyML should be inexpensive
-### As Educators we purchase kits that allow students to experience many facets of Robotics and Embedded Machine Learning, however the big picture goal is for student's to be able to design specific combinations of components that they have a Proof of Concept that the components can do the job. The indivisual componenets can be very cheap. The $105 Arduino PortentaH7 chip costs $2.80
+### As Educators we purchase kits that allow students to experience many facets of Robotics and Embedded Machine Learning, however the big picture goal is for student's to be able to design specific combinations of components that they have a Proof of Concept that the components can do the job. The indivisual componenets can be very cheap. The $111 Arduino PortentaH7 chip costs $2.80
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
