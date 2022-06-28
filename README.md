@@ -200,13 +200,11 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 ### Very well supported by Harvard SEAS (School of Engineering and Applied Science) Education <a href="http://tinyml.seas.harvard.edu/">TinyMLEdu</a>  The Github at <a href="https://github.com/tinyMLx/courseware/tree/master/edX">tinyMLx Github</a>
  
- ![image](https://user-images.githubusercontent.com/5605614/176305111-3c0cc679-9b9e-4939-8e04-9d9a45f17435.png)
-
+<img src="https://user-images.githubusercontent.com/5605614/176305111-3c0cc679-9b9e-4939-8e04-9d9a45f17435.png" width = 500 />
  
 ### Also by <a href="https://edgeimpulse.com/university">EdgeImpulse University</a> Github of the course at <a href="https://github.com/edgeimpulse/courseware-embedded-machine-learning">courseware-embedded-machine-learning</a>
 
- ![image](https://user-images.githubusercontent.com/5605614/176258229-111d35ef-e27f-4c83-9abf-e9e264306b73.png)
-
+<img src="https://user-images.githubusercontent.com/5605614/176258229-111d35ef-e27f-4c83-9abf-e9e264306b73.png" width = 500 />
 ### Often a university can get a few free sets of the Arduino Tiny Machine Learning Kits or other hardware from either of these groups.
 
 <br><br><br><br><br><br><br><br>
@@ -256,8 +254,9 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 ### Note: I have converted TensorflowJS models to arduino <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow/tfjs-convert-to-arduino-header">here</a> but it is a bit complex and size is always an issue, much easier to work with EdgeImpulse!
 
-![image](https://user-images.githubusercontent.com/5605614/176290714-58fa7196-fe53-4ce9-a77b-2687b4e757fa.png)
 
+
+<img src="https://user-images.githubusercontent.com/5605614/176290714-58fa7196-fe53-4ce9-a77b-2687b4e757fa.png" width = 500 />
 
 
 <hr>
