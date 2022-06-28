@@ -293,7 +293,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 ### The chip shortage is really making it obvious that in house making of PCB's as a necessary skill.
  
-### <a href="https://www.voltera.io/">Voltera.io </a> is a possible educational solution, similar to a 3D printer, but for PCB's. Takes a set size small board, drills wholes, prints traces, manual connect Vias, print solder paste, manual place SMD's (surface mount components), auto heat, long cool down. Uses very low temperature silver solder for Through-hole-technology (THT) components.
+### <a href="https://www.voltera.io/">Voltera.io </a> is a possible educational solution, similar to a 3D printer, but for PCB's. Takes a set size small board, drills holes, manual install copper vias, prints traces, print solder paste, manual place SMD's (surface mount components), auto heat, long cool down. Uses very low temperature silver solder for through-hole-technology (THT) components.
  
 ### I have asked my school to purchase a V-One, but the $6000 USD price tag might be to steep. Perhaps someone has a suggestion for how to get a grant to get one of these?
  
