@@ -248,7 +248,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 # <a href="https://www.tensorflow.org/js/">TensorflowJS</a> Can reach a large Web capable audience
 ### In 2017 TensorflowJS was introduced originally as deeplearnJS, using TypeScript and some compiled Javascript. I spent a lot of time converting the @Google Brain code for Single page Vanilla Javascript that student's could use without installing anything, <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">beginner-tensorflowjs-examples-in-javascript</a> In my opinion TensorflowJS is the best, most powerful platform to truely teach Machine Learning to the largest audience. 
  
- ### Note: I have converted TensorflowJS models to arduino <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow/tfjs-convert-to-arduino-header">here</a> but it is a bit complex and size is always an issue, much easier to work with EdgeImpulse!
+### Note: I have converted TensorflowJS models to arduino <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow/tfjs-convert-to-arduino-header">here</a> but it is a bit complex and size is always an issue, much easier to work with EdgeImpulse!
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
