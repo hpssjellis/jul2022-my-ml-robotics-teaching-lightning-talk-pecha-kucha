@@ -312,7 +312,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 
 
-Template for this from https://github.com/hpssjellis/pecha-kucha-lightning-talks-template
+Template for this from <a href="https://github.com/hpssjellis/pecha-kucha-lightning-talks-template">pecha-kucha-lightning-talks-template</a>
 
 
 
