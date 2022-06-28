@@ -274,7 +274,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 ### I hope to be able to include more advanced Machine Learning in the Maker101 course in which I look into more advanced Edge Impulse Model Manipulation for alternate sensors or more advanced models 
 ### <a href="https://docs.edgeimpulse.com/docs/edge-impulse-studio/learning-blocks/object-detection/fomo-object-detection-for-constrained-devices#expert-mode-tips">Model Manipulation </a>
 
-<img src="https://user-images.githubusercontent.com/5605614/176312017-21b191b3-342e-4816-916c-6946190c8d37.png" width="500" />
+<img src="https://user-images.githubusercontent.com/5605614/176312017-21b191b3-342e-4816-916c-6946190c8d37.png" width="300" />
  
 ### After Classification Coding
  
@@ -283,7 +283,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
  
  
-<img src="rccar.gif" width="200" />    <img src="https://user-images.githubusercontent.com/5605614/176314510-2caa178c-580d-4060-b15d-cec285d00b11.png" width="300" />    
+<img src="rccar.gif" width="140" />    <img src="https://user-images.githubusercontent.com/5605614/176314510-2caa178c-580d-4060-b15d-cec285d00b11.png" width="200" />    
 
 
 
