@@ -308,11 +308,10 @@ Show how to do images and links. Note: To get the url just paste an image right 
 ### <a href="https://ca.linkedin.com/in/jeremy-ellis-4237a9bb">Linkedin </a>  
 ### Use this information at your own risk!
  
- ### Unlike a Powerpoint presentation this material can be updated with a newer version as mistakes are corrected or new information becomes available. A new recording of  ```recorded-talk.m4a``` should be made if the changes are substantial.
- 
+
  
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
