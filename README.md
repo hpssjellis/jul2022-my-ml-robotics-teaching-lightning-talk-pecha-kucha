@@ -268,23 +268,19 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 <hr>
 
-#### 1
+#### 12
 # Maker101 Model Manipulation and After Classification Coding
 
 ### I hope to be able to include more advanced Machine Learning in the Maker101 course in which I look into more advanced Edge Impulse Model Manipulation for alternate sensors or more advanced models 
-### <a href="chttps://docs.edgeimpulse.com/docs/edge-impulse-studio/learning-blocks/object-detection/fomo-object-detection-for-constrained-devices#expert-mode-tips">Model Manipulation </a>
- 
+### <a href="https://docs.edgeimpulse.com/docs/edge-impulse-studio/learning-blocks/object-detection/fomo-object-detection-for-constrained-devices#expert-mode-tips">Model Manipulation </a>
 
- <img src="https://user-images.githubusercontent.com/5605614/176296146-923c8b33-3ca2-4c63-ab09-cdb3bb4812ba.png" width = 300 />
- <br>
- <img src="https://user-images.githubusercontent.com/5605614/176301601-2a3b6afd-e59e-43f5-a6c4-f7e685c97fd8.png" width = 300 />
- 
+<img src="https://user-images.githubusercontent.com/5605614/176312017-21b191b3-342e-4816-916c-6946190c8d37.png" width="500" />
  
 ### After Classification Coding
  
 ### What I found really interesting this year with my <a href="https://www.gearbots.org/stem-academy/">GearBotsBC</a> group was using EdgeImpulse models but then coding the results to drive a car. This model sensed the white line, but the processing of the information was very interesting to drive the car. This is on going.
  
-<img src="rccar.gif" width="300" />
+<img src="rccar.gif" width="200" />
 
  
 
