@@ -280,9 +280,13 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 ### What I found really interesting this year with my <a href="https://www.gearbots.org/stem-academy/">GearBotsBC</a> group was using EdgeImpulse models but then coding the results to drive a car. This model sensed the white line, but the processing of the information was very interesting to drive the car. This is on going.
  
-<img src="rccar.gif" width="200" />
-
  
+ 
+ 
+<img src="rccar.gif" width="200" />    <img src="[rccar.gif](https://user-images.githubusercontent.com/5605614/176314510-2caa178c-580d-4060-b15d-cec285d00b11.png)" width="200" />    
+
+
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
