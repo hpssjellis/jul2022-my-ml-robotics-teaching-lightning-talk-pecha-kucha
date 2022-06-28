@@ -123,9 +123,9 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 # Intro: Lightning Talks in Pecha Kucha Format 
 
 ### ~15 Slides, 20 seconds per Slide works out to about 5 min per presenter
-### Traditional Format: Powerpoint, PDF,
-### But Coders use Github
-### So I made the Github README.md file work with Javascript
+### Traditional Business/Education Format: Powerpoint, PDF (Issue for audience not able to click links
+### But Coders use Github!
+### So I made any Github README.md file work with Javascript for audio and auto presentation
 
 
 <br><br><br><br><br><br><br><br><br>
@@ -161,11 +161,15 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 
 #### 3
-# Future: 
+# Topic: 
  
 ### I believe all educated people should have some form of hands on Robotics and Machine Learning Education. It doesn't matter if the person is at University to become a Lawyer, Accountant, Scientist, Educator or any field.  Machine Learning is here, and will have an enormous effect both good and bad on all areas of our lifes. Knowing how deep learning works might be the most important thing Educators teach.
 
- 
+### Some ML Educational Issues: 
+
+### Traditional Method is too difficult and not any preparation for Embedded devices
+
+### Online Simplifications: (<a href="https://www.edgeimpulse.com/">EdgeImpulse</a>, <a href="https://ide.tinkergen.com/">CodeCraft-tinkergen</a>, <a href="https://scratch.mit.edu/studios/3995548/">Scratch</a>) (Motion, Sound, Vision) only teach the basics and difficult to adapt to other sensors
 
 <br><br><br><br><br><br><br>
 <hr>
