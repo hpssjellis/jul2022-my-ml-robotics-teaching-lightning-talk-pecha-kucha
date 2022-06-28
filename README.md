@@ -125,7 +125,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 ### ~15 slides, 20 seconds per slide works out to about 5 min per presenter
 ### Traditional Business/Education Format: Powerpoint, PDF (Issue for audience not able to click links)
 ### But Coders use Github!
-### So I made a Github README.md file that work with Javascript for audio and automatic presentation
+### So I made a Github README.md file that works with Javascript for both audio and automatic scrolling
 
 
 <br><br><br><br><br><br><br><br><br>
