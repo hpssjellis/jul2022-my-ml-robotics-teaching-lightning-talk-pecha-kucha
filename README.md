@@ -284,7 +284,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 ### What I found really interesting this year with my <a href="https://www.gearbots.org/stem-academy/">GearBotsBC</a> group was using EdgeImpulse models but then coding the results to drive a car. This model sensed the white line, but the processing of the information was very interesting to drive the car. This is on going.
  
-<img src="rccar.gif" width="500" />
+<img src="rccar.gif" width="300" />
 
  
 
