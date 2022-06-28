@@ -184,9 +184,9 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 ### The traditional way to teach Machine Learning and the subset Deep Learning is with these platforms. Mainly for students with some advanced Math skills. These platforms typically involve only the computer and not directly using sensors and/or sending output to actuators. Typically a known dataset is loaded and the Machine Learning model is manipulated to demonstrate understanding of the concept with the output generated for the computer screen. 
 
-### Note: <a href="https://gitpod.io/">https://gitpod.io/</a> can help enorously with teaching the above as most Github sites can be loaded into Gitpod (an online Browser docker) and ran with only a few starting commands. With a github login you just need to add to the front of a github URL ``` gitpod.io/#  ```
+### Note: <a href="Gitpod.io">https://gitpod.io/</a> can help enorously with teaching the above as most Github sites can be loaded into Gitpod (an online Browser docker) and ran with only a few starting commands. With a github login you just need to add to the front of a github URL ``` gitpod.io/#  ``` My Gitpod  (old) examples are <a href="https://hpssjellis.github.io/rocksetta-gitpod-links/">rocksetta-gitpod-links</a>
  
-### My Gitpod  (old) examples are <a href="https://hpssjellis.github.io/rocksetta-gitpod-links/">rocksetta-gitpod-links</a>
+![image](https://user-images.githubusercontent.com/5605614/176257845-40bcfdf2-f3e2-4ae3-9ca9-59d7d2b20b35.png)
 
 
 <br><br><br><br><br><br><br><br><br>
@@ -198,7 +198,9 @@ Show how to do images and links. Note: To get the url just paste an image right 
 ### Very well supported by Harvard SEAS (School of Engineering and Applied Science) Education <a href="http://tinyml.seas.harvard.edu/">TinyMLEdu</a>  The Github at <a href="https://github.com/tinyMLx/courseware/tree/master/edX">tinyMLx Github</a>
  
 ### Also by <a href="https://edgeimpulse.com/university">EdgeImpulse University</a> Github of the course at <a href="https://github.com/edgeimpulse/courseware-embedded-machine-learning">courseware-embedded-machine-learning</a>
- 
+
+ ![image](https://user-images.githubusercontent.com/5605614/176258229-111d35ef-e27f-4c83-9abf-e9e264306b73.png)
+
 ### Often a university can get a few free sets of the Arduino Tiny Machine Learning Kits or other hardware from either of these groups.
 
 <br><br><br><br><br><br><br><br>
