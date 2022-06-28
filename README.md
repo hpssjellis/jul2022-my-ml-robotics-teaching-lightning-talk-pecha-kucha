@@ -225,8 +225,9 @@ Show how to do images and links. Note: To get the url just paste an image right 
 # <a href="https://www.amazon.ca/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27">Raspberry Pi 4B</a>
 ### All RPI's and other single board computers such as the <a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-2GB-Developer-Kit-Wireless-Adapter-Included-p-4707.html">NVIDIA® Jetson Nano™ 2GB Developer Kit </a> have the advantage of near full computer power with up to 40 pins for connectivity to sensors, actuators and built in Communication. Really the best situation, except for the larger amount of electricity used, hardware cost and larger size compared to other microcontrollers.
 
+![image](https://user-images.githubusercontent.com/5605614/176316438-fca02195-da34-4a78-b472-73345b93698e.png)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <hr>
 
 
