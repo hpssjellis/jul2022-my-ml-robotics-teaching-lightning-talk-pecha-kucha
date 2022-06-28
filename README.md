@@ -171,7 +171,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 ### Online Simplifications: (<a href="https://www.edgeimpulse.com/">EdgeImpulse</a>, <a href="https://ide.tinkergen.com/">CodeCraft-tinkergen</a>, <a href="https://scratch.mit.edu/studios/3995548/">Scratch</a>) (Motion, Sound, Vision:Classification and FOMO) Very simple for any age group of students with cell phones to quickly (under 40 minutes) understand how to create a dataset and train a Machine Learning model and test it's effectiveness.
  
-### There is a huge gap between the Tranditional and Online teaching methods.
+### There is a huge gap between the Traditional and Online teaching methods.
  
 ### Issues: The Online is simpler but advanced issues are: How to program the embedded device after analysis, how to use other sensors, and ability to do advanced model manipulation. 
 
@@ -184,7 +184,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 ### The traditional way to teach Machine Learning and the subset Deep Learning is with these platforms. Mainly for students with some advanced Math skills. These platforms typically involve only the computer and not directly using sensors and/or sending output to actuators. Typically a known dataset is loaded and the Machine Learning model is manipulated to demonstrate understanding of the concept with the output generated for the computer screen. 
 
-### Note: <a href="Gitpod.io">https://gitpod.io/</a> can help enorously with teaching the above as most Github sites can be loaded into Gitpod (an online Browser docker) and ran with only a few starting commands. With a github login you just need to add to the front of a github URL ``` gitpod.io/#  ``` My Gitpod  (old) examples are <a href="https://hpssjellis.github.io/rocksetta-gitpod-links/">rocksetta-gitpod-links</a>
+### Note: <a href="Gitpod.io">https://gitpod.io/</a> can help enormously with teaching the above as most Github sites can be loaded into Gitpod (an online Browser docker) and ran with only a few starting commands. With a github login you just need to add to the front of a github URL ``` gitpod.io/#  ``` My Gitpod  (old) examples are <a href="https://hpssjellis.github.io/rocksetta-gitpod-links/">rocksetta-gitpod-links</a>
  
 ![image](https://user-images.githubusercontent.com/5605614/176257845-40bcfdf2-f3e2-4ae3-9ca9-59d7d2b20b35.png)
 
@@ -213,9 +213,9 @@ Show how to do images and links. Note: To get the url just paste an image right 
 # My Maker100 
 ### For the <a href="https://store-usa.arduino.cc/products/portenta-h7">Arduino PortentaH7</a> with the <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE">LoRa Vision Shield</a> and <a href="https://www.seeedstudio.com/Seeeduino-XIAO-Pre-Soldered-p-4747.html">Seeedstudio XIAO </a>  Github of my course at <a href="https://github.com/hpssjellis/maker100">https://github.com/hpssjellis/maker100</a>
 
-### My main Robotics and Machine Learning course is called <a href="https://github.com/hpssjellis/maker100">Maker 100</a> and is fully on Github, with plans to make all parts available for indivdual equipment purchase and a fully online component for technologically capable teenagers to follow before going to University.
+### My main Robotics and Machine Learning course is called <a href="https://github.com/hpssjellis/maker100">Maker 100</a> and is fully on Github, with plans to make all parts available for individual equipment purchase and a fully online component for technologically capable teenagers to follow before going to University.
 
-### I belive that Machine Learning needs to be taught within an understanding of Robotic sensors (flex, touch, light...), actuators (DC motors, stepper, servo, LED's... ), communication (Ethernet, WiFI, BLE, LoRa) and PCB design ( best PCB video <a href="https://www.youtube.com/watch?v=gjPNYMRA0m8&list=PLbKMtvtYbdPMZfzGuVTdc0MWKrFvU4nsu&index=3">here</a>). The Maker100 course quickly touches on all these areas and leaves more advanced topics to the as yet not developed <a href="https://github.com/hpssjellis/maker101">Maker101</a> course.
+### I believe that Machine Learning needs to be taught within an understanding of Robotic sensors (flex, touch, light...), actuators (DC motors, stepper, servo, LED's... ), communication (Ethernet, WiFI, BLE, LoRa) and PCB design ( best PCB video <a href="https://www.youtube.com/watch?v=gjPNYMRA0m8&list=PLbKMtvtYbdPMZfzGuVTdc0MWKrFvU4nsu&index=3">here</a>). The Maker100 course quickly touches on all these areas and leaves more advanced topics to the as yet not developed <a href="https://github.com/hpssjellis/maker101">Maker101</a> course.
 
 ![image](https://user-images.githubusercontent.com/5605614/176285054-ea98ff42-df6e-408a-b7c8-f480d5912d73.png)
 <hr>
@@ -231,7 +231,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 #### 8
 # TinyML should be inexpensive
-### As Educators we purchase kits that allow students to experience many facets of Robotics and Embedded Machine Learning, however the big picture goal is for student's to be able to design specific combinations of components that they have a Proof of Concept that the components can do the job. The indivisual componenets can be very cheap. The $111 Arduino PortentaH7 chip costs $2.80
+### As Educators we purchase kits that allow students to experience many facets of Robotics and Embedded Machine Learning, however the big picture goal is for student's to be able to design specific combinations of components that they have a Proof of Concept that the components can do the job. The individual components can be very cheap. The $111 Arduino PortentaH7 chip costs $2.80
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -249,7 +249,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 #### 10
 # <a href="https://www.tensorflow.org/js/">TensorflowJS</a> Can reach a large Web capable audience
-### In 2017 TensorflowJS was introduced originally as deeplearnJS, using TypeScript and some compiled Javascript. I spent a lot of time converting the @Google Brain code for Single page Vanilla Javascript that student's could use without installing anything, <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">beginner-tensorflowjs-examples-in-javascript</a> In my opinion TensorflowJS is the best, most powerful platform to truely teach Machine Learning to the largest audience. 
+### In 2017 TensorflowJS was introduced originally as deeplearnJS, using TypeScript and some compiled Javascript. I spent a lot of time converting the @Google Brain code for Single page Vanilla Javascript that student's could use without installing anything, <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">beginner-tensorflowjs-examples-in-javascript</a> In my opinion TensorflowJS is the best, most powerful platform to truly teach Machine Learning to the largest audience. 
  
 ### Note: I have converted TensorflowJS models to arduino <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow/tfjs-convert-to-arduino-header">here</a> but it is a bit complex and size is always an issue, much easier to work with EdgeImpulse!
 
@@ -260,7 +260,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 <hr>
 #### 11
 # WebSerial Possible Teaching Potential
-### WebSerial is an interesting combination of microcontrollers with Javascript webpages such as TensorflowJS and working on Desktop or Android Cell Phone. See demo page <a href="https://hpssjellis.github.io/my-examples-of-arduino-webUSB-webSerial/public/webserial-and-polyfill.html">here</a> which has links to the Arduino files. Teaching power of TensorflowJS, cheap microcontroller to connect with Actuators (to do something), possibly connect with Sensors, but a cell phone has a lot of sensors built in. Interesting potentail here for education with minimal cost.
+### WebSerial is an interesting combination of microcontrollers with Javascript webpages such as TensorflowJS and working on Desktop or Android Cell Phone. See demo page <a href="https://hpssjellis.github.io/my-examples-of-arduino-webUSB-webSerial/public/webserial-and-polyfill.html">here</a> which has links to the Arduino files. Teaching power of TensorflowJS, cheap microcontroller to connect with Actuators (to do something), possibly connect with Sensors, but a cell phone has a lot of sensors built in. Interesting potential here for education with minimal cost.
  ![image](https://user-images.githubusercontent.com/5605614/176287664-bd0f1893-c3df-4f50-bcc4-86091141569f.png)
 
 
@@ -295,7 +295,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 3. The $115.00 USD [NiclaVision](https://store-usa.arduino.cc/products/nicla-vision?selectedStore=us) could be very good for Color Vision, sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/157479032-f93ac6e1-1139-4886-bf40-9dfc6e8c2b9c.png" width = 70/>
 4. The $33.40 USD [Nano 33 Ble Sense](https://store.arduino.cc/usa/nano-33-ble-sense-with-headers) is very good for sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/176252302-5f9474d1-07cc-4912-ae73-cc96aaeed92c.png" width = 55/>
 5. The $129 USD [Sony Spresense Kit](https://shop.framos.com/us/spresense) with Breakout Board and Camera and now works on the Arduino IDE. Absolutely nothing wrong with this board, I have just not yet got it doing Machine Learning on the Arduino IDE yet. Note: uses LED0, LED1, LED2, LED3 instead of LEDB, LEDG, LEDR <br><img src="https://user-images.githubusercontent.com/5605614/176248308-bad3aaa0-fa86-4b34-9a98-e140af242199.png"  width = 55/>
-6. The $25.50 USD [Arduino Nano-RP2040-Connect](https://store.arduino.cc/usa/nano-rp2040-connect-with-headers) Is very new but has lots of potential over the RPI Pico as it has WiFi and BLE onboard and the $4 USD [RPIi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) Amazing board for the price. <br><img src="https://user-images.githubusercontent.com/5605614/176248392-4cfa47f3-5533-40eb-a8f6-00b2faef2ae8.png"  width = 20/> 
+6. The $25.50 USD [Arduino Nano-RP2040-Connect](https://store.arduino.cc/usa/nano-rp2040-connect-with-headers) Is very new but has lots of potential over the RPI Pico as it has WiFi and BLE onboard and the $4 USD [RPI Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) Amazing board for the price. <br><img src="https://user-images.githubusercontent.com/5605614/176248392-4cfa47f3-5533-40eb-a8f6-00b2faef2ae8.png"  width = 20/> 
 7. The $25.00 USD [ArducamPico-4ML](https://www.arducam.com/raspberry-pi-pico-machine-learning/) This board looks like it would be perfect for machine learning with a mini screen and camera but I have never got it properly working on the Arduino IDE.<br><img src="https://user-images.githubusercontent.com/5605614/176248456-b4cda708-2995-4f6b-8d02-47915015c2fb.png"  width = 50/> 
 
 
@@ -352,7 +352,7 @@ Template for this from <a href="https://github.com/hpssjellis/pecha-kucha-lightn
 
 ### By Jeremy Ellis Twitter @Rocksetta Use at your own Risk!
 ### Note when looking at the markdown none of the javascript buttons appear, you must go to your Gitpages Demo Link!
-A few Javascript abilites do not work, such as hiding the code. So all the Javascript not in buttons is below. 
+A few Javascript abilities do not work, such as hiding the code. So all the Javascript not in buttons is below. 
 
 
 
