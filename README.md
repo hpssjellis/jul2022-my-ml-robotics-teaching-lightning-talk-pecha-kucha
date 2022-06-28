@@ -2,7 +2,7 @@
 
 
 
-##### version 0.0.2-5 updated June, 2022
+##### version 0.0.2-6 updated June, 2022
 
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
  
@@ -122,10 +122,10 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 #### 1
 # Intro: Lightning Talks in Pecha Kucha Format 
 
-### ~15 Slides, 20 seconds per Slide works out to about 5 min per presenter
-### Traditional Business/Education Format: Powerpoint, PDF (Issue for audience not able to click links
+### ~15 slides, 20 seconds per slide works out to about 5 min per presenter
+### Traditional Business/Education Format: Powerpoint, PDF (Issue for audience not able to click links)
 ### But Coders use Github!
-### So I made any Github README.md file work with Javascript for audio and auto presentation
+### So I made a Github README.md file that work with Javascript for audio and automatic presentation
 
 
 <br><br><br><br><br><br><br><br><br>
@@ -137,11 +137,11 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 ### I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>
 ### <a href="https://github.com/hpssjellis?tab=repositories"> Github Profile</a>
-### Canadian High School Technology Teacher, with greater than 30 years teaching coding. 
+### Canadian High School Technology Teacher, with greater than 30 years experience teaching coding. 
 ### Presently teaching Animation, Coding, 3D Printing and Robotics with Machine Learning 
 
-### I started my Data Science interest when I tried to understand why I couldn't play an instrument very well. <a href="https://rocksetta.com/">https://rocksetta.com/</a>. This project is ongoing  :smile:
-### In the early 1990's I was designing fully connected Neural Networks using Quick Pascal. (Not that hard to program), but they never worked for me, they just kept oscillating between options, So I did other things until Tensorflow was made public in 2015.
+### I started my Data Science interests when I tried to understand patterns in music and developed a sing-able music notation. <a href="https://rocksetta.com/">https://rocksetta.com/</a>. This project is ongoing  :smile:
+### In the early 1990's I was designing fully connected Neural Networks using Quick Pascal. (Not that hard to program), but they never worked, they just kept oscillating between solutions. I did other things until Tensorflow was made public in 2015. I knew this was something that students would benefit from but has to wait until 2017 when deeplearnJS came out.
  
  
  
@@ -163,13 +163,17 @@ Show how to do images and links. Note: To get the url just paste an image right 
 #### 3
 # Topic: 
  
-### I believe all educated people should have some form of hands on Robotics and Machine Learning Education. It doesn't matter if the person is at University to become a Lawyer, Accountant, Scientist, Educator or any field.  Machine Learning is here, and will have an enormous effect both good and bad on all areas of our lifes. Knowing how deep learning works might be the most important thing Educators teach.
+### I believe all educated people should have some form of hands on Robotics and Machine Learning Education. It doesn't matter if the person is at University to become a Lawyer, Accountant, Scientist, Educator or any field.  Machine Learning is here to stay, and will have an enormous effect, both good and bad, on all areas of society. Knowing how deep learning works might be the most important thing Educators teach.
 
 ### Some ML Educational Issues: 
 
-### Traditional Method is too difficult and not any preparation for Embedded devices
+### Traditional Method is too difficult for the general population and gives no preparation for Embedded devices
 
-### Online Simplifications: (<a href="https://www.edgeimpulse.com/">EdgeImpulse</a>, <a href="https://ide.tinkergen.com/">CodeCraft-tinkergen</a>, <a href="https://scratch.mit.edu/studios/3995548/">Scratch</a>) (Motion, Sound, Vision) only teach the basics and difficult to adapt to other sensors
+### Online Simplifications: (<a href="https://www.edgeimpulse.com/">EdgeImpulse</a>, <a href="https://ide.tinkergen.com/">CodeCraft-tinkergen</a>, <a href="https://scratch.mit.edu/studios/3995548/">Scratch</a>) (Motion, Sound, Vision:Classification and FOMO) Very simple for any age group of students with cell phones to quickly (under 40 minutes) understand how to create a dataset and train a Machine Learning model and test it's effectiveness.
+ 
+### There is a huge gap between the Tranditional and Online teaching methods.
+ 
+### Issues: The Online is simpler but advanced issues are: How to program the embedded device after analysis, how to use other sensors, and ability to do advanced model manipulation. 
 
 <br><br><br><br><br><br><br>
 <hr>
@@ -189,9 +193,9 @@ Show how to do images and links. Note: To get the url just paste an image right 
 <hr>
 
 #### 5
-# <a href="https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit">Arduino Tiny Machine Learning Kit</a>
+# EdgeImpulse and the <a href="https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit"> Arduino Tiny Machine Learning Kit</a>
  
-### Very well supported by both Harvard SEAS (School of Engineering and Applied Science) Education <a href="http://tinyml.seas.harvard.edu/">TinyMLEdu</a>  The Github at <a href="https://github.com/tinyMLx/courseware/tree/master/edX">tinyMLx Github</a>
+### Very well supported by Harvard SEAS (School of Engineering and Applied Science) Education <a href="http://tinyml.seas.harvard.edu/">TinyMLEdu</a>  The Github at <a href="https://github.com/tinyMLx/courseware/tree/master/edX">tinyMLx Github</a>
  
 ### Also by <a href="https://edgeimpulse.com/university">EdgeImpulse University</a> Github of the course at <a href="https://github.com/edgeimpulse/courseware-embedded-machine-learning">courseware-embedded-machine-learning</a>
  
@@ -205,9 +209,9 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 ### For the <a href="https://store-usa.arduino.cc/products/portenta-h7">Arduino PortentaH7</a> with the <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE">LoRa Vision Shield</a> and <a href="https://www.seeedstudio.com/Seeeduino-XIAO-Pre-Soldered-p-4747.html">Seeedstudio XIAO </a>  Github of my course at <a href="https://github.com/hpssjellis/maker100">https://github.com/hpssjellis/maker100</a>
 
-### My main Robotics and Machine Learning course is called <a href="https://github.com/hpssjellis/maker100">Maker 100</a> and is fully on Github, with plans to make all parts available for indivdual purchase and a fully online componenet for technologically capable teenagers to follow before going to University.
+### My main Robotics and Machine Learning course is called <a href="https://github.com/hpssjellis/maker100">Maker 100</a> and is fully on Github, with plans to make all parts available for indivdual equipment purchase and a fully online component for technologically capable teenagers to follow before going to University.
 
-### I belive that Machine Learning needs to be taught within an undersgtanding of Roboitcs sensors (flex, touch, light...), actuators (DC motors, stepper, servo, LED's... ), communication (Ethernet, WiFI, BLE, LoRa) and pcb design. So this course quickly touches on all these areas and leaves more advanced topics to the as yet not develpped <a href="https://github.com/hpssjellis/maker101">Maker101</a> course.
+### I belive that Machine Learning needs to be taught within an understanding of Robotic sensors (flex, touch, light...), actuators (DC motors, stepper, servo, LED's... ), communication (Ethernet, WiFI, BLE, LoRa) and PCB design ( best PCB video <a href="https://www.youtube.com/watch?v=gjPNYMRA0m8&list=PLbKMtvtYbdPMZfzGuVTdc0MWKrFvU4nsu&index=3">here</a>). The Maker100 course quickly touches on all these areas and leaves more advanced topics to the as yet not developed <a href="https://github.com/hpssjellis/maker101">Maker101</a> course.
 
 <br><br><br><br><br><br><br>
 <hr>
@@ -215,40 +219,47 @@ Show how to do images and links. Note: To get the url just paste an image right 
 #### 7
 # <a href="https://www.amazon.ca/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27">Raspberry Pi 4B</a>
  
-### All RPI's and other single board computers such as the <a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-2GB-Developer-Kit-Wireless-Adapter-Included-p-4707.html">NVIDIA® Jetson Nano™ 2GB Developer Kit </a> 
-
+### All RPI's and other single board computers such as the <a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-2GB-Developer-Kit-Wireless-Adapter-Included-p-4707.html">NVIDIA® Jetson Nano™ 2GB Developer Kit </a> have the advantage of near full computer power with up to 40 pins for connectivity to sensors, actuators and built in Com.. Really the best situation, except for the larger amount of electricity used, hardware cost and larger size compared to other microcontrollers.
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
+
 
 #### 8
+# TinyML should be inexpensive
+
+ ### As Educators we purchase kits that allow students to experience many facets of Robotics and Embedded Machine Learning, however the big picture goal is for student's to be able to design specific combinations of components that they have a Proof of Concept that the components can do the job. The indivisual componenets can be very cheap. The $105 Arduino PortentaH7 chip costs $2.80
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+#### 9
+# New Hardware 2023
+
+ ### What amazing hardware will come out in 2023? Cheaper, smaller, less electricity demands and more or specific connectivity. I am waiting for an inexpensive LoRaWan device.
+ 
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+ 
+ 
+#### 10
 # <a href="https://www.tensorflow.org/js/">TensorflowJS</a> Can reach a large Web capable audience
 
-### In 2017 TensorflowJS was introduced originally as deeplearnJS, using TypeScript and some Compiler Javascript. I spent a lot of time converting the @Google Brain code for Single page Vanilla Javascript that might students could use without installing anything, <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">beginner-tensorflowjs-examples-in-javascript</a>
+### In 2017 TensorflowJS was introduced originally as deeplearnJS, using TypeScript and some compiled Javascript. I spent a lot of time converting the @Google Brain code for Single page Vanilla Javascript that student's could use without installing anything, <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">beginner-tensorflowjs-examples-in-javascript</a> In my opinion TensorflowJS is the best, most powerful platform to truely teach Machine Learning to the largest audience. 
+ 
+ ### Note: I have converted TensorflowJS models to arduino <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow/tfjs-convert-to-arduino-header">here</a> but it is a bit complex and size is always an issue, much easier to work with EdgeImpulse!
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
-#### 9
-# TinyML should be inexpensive
- 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
-#### 10
-# New Hardware 2023
- 
- 
- 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
 #### 11
 # WebSerial Possible Teaching Potential
- 
+
+ ### WebSerial is an interesting combination of microcontrollers with Javascript webpages such as TensorflowJS and working on Desktop or Android Cell Phone. See demo page <a href="https://hpssjellis.github.io/my-examples-of-arduino-webUSB-webSerial/public/webserial-and-polyfill.html">here</a> which has links to the Arduino files. Teaching power of TensorflowJS, cheap microcontroller to connect with Actuators (to do something), possibly connect with Sensors, but a cell phone has a lot of sensors built in. Interesting potentail here for education with minimal cost.
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -264,18 +275,29 @@ Show how to do images and links. Note: To get the url just paste an image right 
 #### 13
 ## Other Boards
  
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+1. The $115.00 USD [NiclaVision](https://store-usa.arduino.cc/products/nicla-vision?selectedStore=us) is very good for Color Vision, sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/157479032-f93ac6e1-1139-4886-bf40-9dfc6e8c2b9c.png" width = 100/><br><br>
+
+2. The $33.40 USD [Nano 33 Ble Sense](https://store.arduino.cc/usa/nano-33-ble-sense-with-headers) is very good for sound and accelerometer Machine Learning <br><img src="media/Arduino-nano33BleSense.jpg" width = 100/><br><br>
+3. The  $19.65 USD [Particle Photon](https://store.particle.io/products/photon) 6 year student tested Curriculum is [here](https://github.com/hpssjellis/particle.io-photon-high-school-robotics) with videos [here](https://www.youtube.com/playlist?list=PL57Dnr1H_egsL0r4RXPA4PY2yZhOJk5Nr). I still start my students on this very easy to use platform!<br><img src="media/Particle-photon.jpg" width = 100/><br><br>
+4. The $5.40 USD [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)  Only a limited number of pins to use<br><img src="media/Seeeduino-xiao.jpg" width = 100/><br><br>
+5. The $129 USD [Sony Spresense Kit](https://shop.framos.com/us/spresense) with Breakout Board and Camera and now works on the Arduino IDE. Absolutely nothing wrong with this board, I have just not yet got it doing Machine Learning on the Arduino IDE yet. Note: uses LED0, LED1, LED2, LED4 instead of LEDB, LEDG, LEDR <br><img src="media/Sony-spresense-kit.jpg" width = 100/><br><br>
+6. The $25.50 USD [Arduino Nano-RP2040-Connect](https://store.arduino.cc/usa/nano-rp2040-connect-with-headers) Is very new but has lots of potential over the RPI Pico as it has WiFi and BLE onboard.<br> <img src="media/Arduino-nanoRP2040-connect.jpg" width = 100/><br><br><br>
+7. The $4 USD [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) Amazing board, see above. <br><br>
+8. The $25.00 USD [ArducamPico-4ML](https://www.arducam.com/raspberry-pi-pico-machine-learning/) This board looks like it would be perfect for machine learning with a mini screen and camera but I have never got it properly working on the Arduino IDE.<br><img src="media/ArducamPico-4ml.jpg" width = 100/> <br><br>
+
+ 
+
 <hr>
 
 #### 14
  ## <a href="https://www.voltera.io/">Voltera.io </a> PCB Making
  
-### The chip shortage is really making it obvious that making PCB's is a necessary skill tht has many global dependencies.
+### The chip shortage is really making it obvious that in house making of PCB's as a necessary skill.
  
 ### <a href="https://www.voltera.io/">Voltera.io </a> is a possible educational solution, similar to a 3D printer, but for PCB's. Takes a set size small board, drills wholes, prints traces, manual connect Vias, print solder paste, manual place SMD's (surface mount components), auto heat, long cool down. Uses very low temperature silver solder for Through-hole-technology (THT) components.
  
- ### I have asked my school to purchase a V-One, but the $6000 USD price tag might be to steep. Perhaps someone hass a suggestion for how to get a grant to get one of these.
+ ### I have asked my school to purchase a V-One, but the $6000 USD price tag might be to steep. Perhaps someone has a suggestion for how to get a grant to get one of these?
  
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -299,10 +321,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 <hr>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 
 
