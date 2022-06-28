@@ -184,6 +184,9 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 ### The traditional way to teach Machine Learning and the subset Deep Learning is with these platforms. Mainly for students with some advanced Math skills. These platforms typically involve only the computer and not directly using sensors and/or sending output to actuators. Typically a known dataset is loaded and the Machine Learning model is manipulated to demonstrate understanding of the concept with the output generated for the computer screen. 
 
+ ![image](https://user-images.githubusercontent.com/5605614/176306964-fbaff0bf-6e02-4f1a-a2db-e55132cecb70.png)
+
+ 
 ### Note: <a href="Gitpod.io">https://gitpod.io/</a> can help enormously with teaching the above as most Github sites can be loaded into Gitpod (an online Browser docker) and ran with only a few starting commands. With a github login you just need to add to the front of a github URL ``` gitpod.io/#  ``` My Gitpod  (old) examples are <a href="https://hpssjellis.github.io/rocksetta-gitpod-links/">rocksetta-gitpod-links</a>
  
 ![image](https://user-images.githubusercontent.com/5605614/176257845-40bcfdf2-f3e2-4ae3-9ca9-59d7d2b20b35.png)
