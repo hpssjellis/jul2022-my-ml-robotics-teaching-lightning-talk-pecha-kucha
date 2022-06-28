@@ -250,15 +250,17 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 ### Note: I have converted TensorflowJS models to arduino <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow/tfjs-convert-to-arduino-header">here</a> but it is a bit complex and size is always an issue, much easier to work with EdgeImpulse!
 
+ ![image](https://user-images.githubusercontent.com/5605614/176288508-38ad94cb-ffbc-4b6d-b93e-f78922a55e45.png)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 <hr>
 #### 11
 # WebSerial Possible Teaching Potential
 ### WebSerial is an interesting combination of microcontrollers with Javascript webpages such as TensorflowJS and working on Desktop or Android Cell Phone. See demo page <a href="https://hpssjellis.github.io/my-examples-of-arduino-webUSB-webSerial/public/webserial-and-polyfill.html">here</a> which has links to the Arduino files. Teaching power of TensorflowJS, cheap microcontroller to connect with Actuators (to do something), possibly connect with Sensors, but a cell phone has a lot of sensors built in. Interesting potentail here for education with minimal cost.
- 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ ![image](https://user-images.githubusercontent.com/5605614/176287664-bd0f1893-c3df-4f50-bcc4-86091141569f.png)
+
+
 <hr>
 
 #### 1
