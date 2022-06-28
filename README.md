@@ -128,7 +128,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 ### So I made a Github README.md file that works with Javascript for both audio and automatic scrolling
 
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 
@@ -156,7 +156,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 -->
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <hr>
 
 
@@ -175,7 +175,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 ### Issues: The Online is simpler but advanced issues are: How to program the embedded device after analysis, how to use other sensors, and ability to do advanced model manipulation. 
 
-<br><br><br><br><br><br><br>
+<br><br><br><br>
 <hr>
 
 
@@ -192,7 +192,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 ![image](https://user-images.githubusercontent.com/5605614/176257845-40bcfdf2-f3e2-4ae3-9ca9-59d7d2b20b35.png)
 
 
-<br><br><br><br><br><br><br><br><br>
+
 <hr>
 
 #### 5
@@ -200,14 +200,14 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 ### Very well supported by Harvard SEAS (School of Engineering and Applied Science) Education <a href="http://tinyml.seas.harvard.edu/">TinyMLEdu</a>  The Github at <a href="https://github.com/tinyMLx/courseware/tree/master/edX">tinyMLx Github</a>
  
-<img src="https://user-images.githubusercontent.com/5605614/176305111-3c0cc679-9b9e-4939-8e04-9d9a45f17435.png" width = 500 />
+<img src="https://user-images.githubusercontent.com/5605614/176305111-3c0cc679-9b9e-4939-8e04-9d9a45f17435.png" width = 300 />
  
 ### Also by <a href="https://edgeimpulse.com/university">EdgeImpulse University</a> Github of the course at <a href="https://github.com/edgeimpulse/courseware-embedded-machine-learning">courseware-embedded-machine-learning</a>
 
-<img src="https://user-images.githubusercontent.com/5605614/176258229-111d35ef-e27f-4c83-9abf-e9e264306b73.png" width = 500 />
+<img src="https://user-images.githubusercontent.com/5605614/176258229-111d35ef-e27f-4c83-9abf-e9e264306b73.png" width = 300 />
 ### Often a university can get a few free sets of the Arduino Tiny Machine Learning Kits or other hardware from either of these groups.
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 <hr>
 
 #### 6
@@ -235,7 +235,6 @@ Show how to do images and links. Note: To get the url just paste an image right 
 ### As Educators we purchase kits that allow students to experience many facets of Robotics and Embedded Machine Learning, however the big picture goal is for student's to be able to design specific combinations of components that they have a Proof of Concept that the components can do the job. The individual components can be very cheap. The $111 Arduino PortentaH7 chip costs $2.80
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 9
@@ -243,7 +242,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 ### What amazing hardware will come out in 2023? Cheaper, smaller, less electricity demands and more or specific connectivity. I am waiting for an inexpensive LoRaWan device.
  
  
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
  
@@ -260,25 +259,24 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 
 <hr>
+ 
+ 
 #### 11
 # WebSerial Possible Teaching Potential
-### WebSerial is an interesting combination of microcontrollers with Javascript webpages such as TensorflowJS and working on Desktop or Android Cell Phone. See demo page <a href="https://hpssjellis.github.io/my-examples-of-arduino-webUSB-webSerial/public/webserial-and-polyfill.html">here</a> which has links to the Arduino files. Teaching power of TensorflowJS, cheap microcontroller to connect with Actuators (to do something), possibly connect with Sensors, but a cell phone has a lot of sensors built in. Interesting potential here for education with minimal cost.
- ![image](https://user-images.githubusercontent.com/5605614/176287664-bd0f1893-c3df-4f50-bcc4-86091141569f.png)
+### WebSerial is an interesting combination of microcontrollers with Javascript webpages such as TensorflowJS and working on Desktop or Android Cell Phone. See demo page <a href="https://hpssjellis.github.io/my-examples-of-arduino-webUSB-webSerial/public/webserial-and-polyfill.html">here</a> which has links to the Arduino files. Teaching power of TensorflowJS, cheap microcontroller to connect with Actuators (to do something), possibly connect with Sensors, but a cell phone has a lot of sensors built in. Interesting potential here for education with minimal cost.   
 
 
+<img src="https://user-images.githubusercontent.com/5605614/176287664-bd0f1893-c3df-4f50-bcc4-86091141569f.png" width = 500 />
 <hr>
 
 #### 12
-# Maker101 Model Manipulation and After Classification Coding
+# Maker101 Advanced ML
 
-### I hope to be able to include more advanced Machine Learning in the Maker101 course in which I look into more advanced Edge Impulse Model Manipulation for alternate sensors or more advanced models 
-### <a href="https://docs.edgeimpulse.com/docs/edge-impulse-studio/learning-blocks/object-detection/fomo-object-detection-for-constrained-devices#expert-mode-tips">Model Manipulation </a>
+### EdgeImpulse expert Kerass Mode for <a href="https://docs.edgeimpulse.com/docs/edge-impulse-studio/learning-blocks/object-detection/fomo-object-detection-for-constrained-devices#expert-mode-tips">Model Manipulation </a>
 
 <img src="https://user-images.githubusercontent.com/5605614/176312017-21b191b3-342e-4816-916c-6946190c8d37.png" width="300" />
  
-### After Classification Coding
- 
-### What I found really interesting this year with my <a href="https://www.gearbots.org/stem-academy/">GearBotsBC</a> group was using EdgeImpulse models but then coding the results to drive a car. This model sensed the white line, but the processing of the information was very interesting to drive the car. This is on going.
+### After Classification Coding What I found really interesting this year with my <a href="https://www.gearbots.org/stem-academy/">GearBotsBC</a> group was using EdgeImpulse models but then coding the results to drive a car. This model sensed the white line, but the processing of the information was very interesting to drive the car. This is on going.
  
  
  
@@ -301,25 +299,19 @@ Show how to do images and links. Note: To get the url just paste an image right 
 6. The $25.50 USD [Arduino Nano-RP2040-Connect](https://store.arduino.cc/usa/nano-rp2040-connect-with-headers) Is very new but has lots of potential over the RPI Pico as it has WiFi and BLE onboard and the $4 USD [RPI Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) Amazing board for the price. <br><img src="https://user-images.githubusercontent.com/5605614/176248392-4cfa47f3-5533-40eb-a8f6-00b2faef2ae8.png"  width = 20/> 
 7. The $25.00 USD [ArducamPico-4ML](https://www.arducam.com/raspberry-pi-pico-machine-learning/) This board looks like it would be perfect for machine learning with a mini screen and camera but I have never got it properly working on the Arduino IDE.<br><img src="https://user-images.githubusercontent.com/5605614/176248456-b4cda708-2995-4f6b-8d02-47915015c2fb.png"  width = 50/> 
 
-
-
-
-
 <hr>
 
 #### 14
-## <a href="https://www.voltera.io/">Voltera.io </a> PCB Making
- 
-### The chip shortage is really making it obvious that in-house making of PCB's as a necessary skill.
- 
+## <a href="https://www.voltera.io/">Voltera.io </a> at School PCB design
+  
 ### <a href="https://www.voltera.io/">Voltera.io </a> is a possible educational solution, similar to a 3D printer, but for PCB's. Takes a set size small board, drills holes, manual install copper vias, prints traces, print solder paste, manual place SMD's (surface mount components), auto heat, long cool down. Uses very low temperature silver solder for through-hole-technology (THT) components.
  
-### I have asked my school to purchase a V-One, but the $6000 USD price tag might be to steep. Perhaps someone has a suggestion for how to get a grant to get one of these?
+### I have asked my school to purchase a V-One, but the $6000 USD price tag might be too steep. Perhaps someone has a suggestion for how to get a grant to get one of these?
  
  ![image](https://user-images.githubusercontent.com/5605614/176255114-435ef8c9-1989-4761-ae3b-daebea51492f.png)
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <hr>
 
 #### 15
@@ -335,7 +327,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <hr>
 
 
