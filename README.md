@@ -197,6 +197,9 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 ### Very well supported by Harvard SEAS (School of Engineering and Applied Science) Education <a href="http://tinyml.seas.harvard.edu/">TinyMLEdu</a>  The Github at <a href="https://github.com/tinyMLx/courseware/tree/master/edX">tinyMLx Github</a>
  
+ ![image](https://user-images.githubusercontent.com/5605614/176305111-3c0cc679-9b9e-4939-8e04-9d9a45f17435.png)
+
+ 
 ### Also by <a href="https://edgeimpulse.com/university">EdgeImpulse University</a> Github of the course at <a href="https://github.com/edgeimpulse/courseware-embedded-machine-learning">courseware-embedded-machine-learning</a>
 
  ![image](https://user-images.githubusercontent.com/5605614/176258229-111d35ef-e27f-4c83-9abf-e9e264306b73.png)
@@ -270,6 +273,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 ### <a href="chttps://docs.edgeimpulse.com/docs/edge-impulse-studio/learning-blocks/object-detection/fomo-object-detection-for-constrained-devices#expert-mode-tips">Model Manipulation </a>
  
 ![image](https://user-images.githubusercontent.com/5605614/176296146-923c8b33-3ca2-4c63-ab09-cdb3bb4812ba.png)  
+ 
 ![image](https://user-images.githubusercontent.com/5605614/176301601-2a3b6afd-e59e-43f5-a6c4-f7e685c97fd8.png)  
 
  
