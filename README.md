@@ -194,7 +194,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 #### 5
 # EdgeImpulse and the <a href="https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit"> Arduino Tiny Machine Learning Kit</a>
- 
+
 ### Very well supported by Harvard SEAS (School of Engineering and Applied Science) Education <a href="http://tinyml.seas.harvard.edu/">TinyMLEdu</a>  The Github at <a href="https://github.com/tinyMLx/courseware/tree/master/edX">tinyMLx Github</a>
  
 ### Also by <a href="https://edgeimpulse.com/university">EdgeImpulse University</a> Github of the course at <a href="https://github.com/edgeimpulse/courseware-embedded-machine-learning">courseware-embedded-machine-learning</a>
@@ -206,7 +206,6 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 #### 6
 # My Maker100 
-
 ### For the <a href="https://store-usa.arduino.cc/products/portenta-h7">Arduino PortentaH7</a> with the <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE">LoRa Vision Shield</a> and <a href="https://www.seeedstudio.com/Seeeduino-XIAO-Pre-Soldered-p-4747.html">Seeedstudio XIAO </a>  Github of my course at <a href="https://github.com/hpssjellis/maker100">https://github.com/hpssjellis/maker100</a>
 
 ### My main Robotics and Machine Learning course is called <a href="https://github.com/hpssjellis/maker100">Maker 100</a> and is fully on Github, with plans to make all parts available for indivdual equipment purchase and a fully online component for technologically capable teenagers to follow before going to University.
@@ -218,7 +217,6 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 #### 7
 # <a href="https://www.amazon.ca/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27">Raspberry Pi 4B</a>
- 
 ### All RPI's and other single board computers such as the <a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-2GB-Developer-Kit-Wireless-Adapter-Included-p-4707.html">NVIDIA® Jetson Nano™ 2GB Developer Kit </a> have the advantage of near full computer power with up to 40 pins for connectivity to sensors, actuators and built in Com.. Really the best situation, except for the larger amount of electricity used, hardware cost and larger size compared to other microcontrollers.
 
 
@@ -228,8 +226,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 #### 8
 # TinyML should be inexpensive
-
- ### As Educators we purchase kits that allow students to experience many facets of Robotics and Embedded Machine Learning, however the big picture goal is for student's to be able to design specific combinations of components that they have a Proof of Concept that the components can do the job. The indivisual componenets can be very cheap. The $105 Arduino PortentaH7 chip costs $2.80
+### As Educators we purchase kits that allow students to experience many facets of Robotics and Embedded Machine Learning, however the big picture goal is for student's to be able to design specific combinations of components that they have a Proof of Concept that the components can do the job. The indivisual componenets can be very cheap. The $105 Arduino PortentaH7 chip costs $2.80
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -237,8 +234,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 #### 9
 # New Hardware 2023
-
- ### What amazing hardware will come out in 2023? Cheaper, smaller, less electricity demands and more or specific connectivity. I am waiting for an inexpensive LoRaWan device.
+### What amazing hardware will come out in 2023? Cheaper, smaller, less electricity demands and more or specific connectivity. I am waiting for an inexpensive LoRaWan device.
  
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -248,7 +244,6 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
 #### 10
 # <a href="https://www.tensorflow.org/js/">TensorflowJS</a> Can reach a large Web capable audience
-
 ### In 2017 TensorflowJS was introduced originally as deeplearnJS, using TypeScript and some compiled Javascript. I spent a lot of time converting the @Google Brain code for Single page Vanilla Javascript that student's could use without installing anything, <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">beginner-tensorflowjs-examples-in-javascript</a> In my opinion TensorflowJS is the best, most powerful platform to truely teach Machine Learning to the largest audience. 
  
  ### Note: I have converted TensorflowJS models to arduino <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow/tfjs-convert-to-arduino-header">here</a> but it is a bit complex and size is always an issue, much easier to work with EdgeImpulse!
@@ -258,8 +253,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 <hr>
 #### 11
 # WebSerial Possible Teaching Potential
-
- ### WebSerial is an interesting combination of microcontrollers with Javascript webpages such as TensorflowJS and working on Desktop or Android Cell Phone. See demo page <a href="https://hpssjellis.github.io/my-examples-of-arduino-webUSB-webSerial/public/webserial-and-polyfill.html">here</a> which has links to the Arduino files. Teaching power of TensorflowJS, cheap microcontroller to connect with Actuators (to do something), possibly connect with Sensors, but a cell phone has a lot of sensors built in. Interesting potentail here for education with minimal cost.
+### WebSerial is an interesting combination of microcontrollers with Javascript webpages such as TensorflowJS and working on Desktop or Android Cell Phone. See demo page <a href="https://hpssjellis.github.io/my-examples-of-arduino-webUSB-webSerial/public/webserial-and-polyfill.html">here</a> which has links to the Arduino files. Teaching power of TensorflowJS, cheap microcontroller to connect with Actuators (to do something), possibly connect with Sensors, but a cell phone has a lot of sensors built in. Interesting potentail here for education with minimal cost.
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
