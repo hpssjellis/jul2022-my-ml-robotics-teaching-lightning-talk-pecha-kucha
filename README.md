@@ -283,7 +283,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
  
  
  
-<img src="rccar.gif" width="200" />    <img src="[rccar.gif](https://user-images.githubusercontent.com/5605614/176314510-2caa178c-580d-4060-b15d-cec285d00b11.png)" width="200" />    
+<img src="rccar.gif" width="200" />    <img src="https://user-images.githubusercontent.com/5605614/176314510-2caa178c-580d-4060-b15d-cec285d00b11.png" width="300" />    
 
 
 
