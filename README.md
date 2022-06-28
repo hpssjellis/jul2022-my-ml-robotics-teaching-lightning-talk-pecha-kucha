@@ -275,16 +275,17 @@ Show how to do images and links. Note: To get the url just paste an image right 
 ### I hope to be able to include more advanced Machine Learning in the Maker101 course in which I look into more advanced Edge Impulse Model Manipulation for alternate sensors or more advanced models 
 ### <a href="chttps://docs.edgeimpulse.com/docs/edge-impulse-studio/learning-blocks/object-detection/fomo-object-detection-for-constrained-devices#expert-mode-tips">Model Manipulation </a>
  
-![image](https://user-images.githubusercontent.com/5605614/176296146-923c8b33-3ca2-4c63-ab09-cdb3bb4812ba.png)  
- 
-![image](https://user-images.githubusercontent.com/5605614/176301601-2a3b6afd-e59e-43f5-a6c4-f7e685c97fd8.png)  
 
+ <img src="https://user-images.githubusercontent.com/5605614/176296146-923c8b33-3ca2-4c63-ab09-cdb3bb4812ba.png" width = 300 />
+ <br>
+ <img src="user-images.githubusercontent.com/5605614/176301601-2a3b6afd-e59e-43f5-a6c4-f7e685c97fd8.png" width = 300 />
+ 
  
 ### After Classification Coding
  
 ### What I found really interesting this year with my GearBotsBC group was using EdgeImpulse models but then coding the results to drive a car. This model sensed the white line, but the processing of the information was very interesting to drive the car. This is on going.
  
- ![image](https://user-images.githubusercontent.com/5605614/176301790-f206525c-8769-42cc-ae67-65c9d4a22dd1.png)
+<img src="rccar.gif" width="500" />
 
  
 
