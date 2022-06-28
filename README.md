@@ -278,7 +278,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
  <img src="https://user-images.githubusercontent.com/5605614/176296146-923c8b33-3ca2-4c63-ab09-cdb3bb4812ba.png" width = 300 />
  <br>
- <img src="user-images.githubusercontent.com/5605614/176301601-2a3b6afd-e59e-43f5-a6c4-f7e685c97fd8.png" width = 300 />
+ <img src="https://user-images.githubusercontent.com/5605614/176301601-2a3b6afd-e59e-43f5-a6c4-f7e685c97fd8.png" width = 300 />
  
  
 ### After Classification Coding
