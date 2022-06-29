@@ -272,11 +272,11 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 <hr>
 
 #### 12
-# Maker101 Advanced ML
+# Maker101 Advanced ML  
 
-**EdgeImpulse expert Keras Mode for <a href="https://docs.edgeimpulse.com/docs/edge-impulse-studio/learning-blocks/object-detection/fomo-object-detection-for-constrained-devices#expert-mode-tips">Model Manipulation </a>**  
+**EdgeImpulse expert Keras Mode for <a href="https://docs.edgeimpulse.com/docs/edge-impulse-studio/learning-blocks/object-detection/fomo-object-detection-for-constrained-devices#expert-mode-tips">Model Manipulation </a>**    
  
-**Expert mode on EdgeImpulse is a must-learn area for advanced use of Machine Learning Models. Hopefully future videos will be on my playlist <a href="https://www.youtube.com/playlist?list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_IDWcR">here<a/>** 
+**Expert mode on EdgeImpulse is a must-learn area for advanced use of Machine Learning Models. Hopefully future videos will be on my playlist <a href="https://www.youtube.com/playlist?list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_IDWcR">here<a/>.** 
 
 <img src="https://user-images.githubusercontent.com/5605614/176312017-21b191b3-342e-4816-916c-6946190c8d37.png" width="300" />
  
