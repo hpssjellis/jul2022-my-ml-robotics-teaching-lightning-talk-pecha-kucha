@@ -145,7 +145,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
  
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 
@@ -164,7 +164,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
 **Issues: The Online is simpler but advanced issues are: How to program the embedded device after analysis, how to use other sensors, and ability to do advanced model manipulation.**   
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 
@@ -250,14 +250,14 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 <img src="https://user-images.githubusercontent.com/5605614/176290714-58fa7196-fe53-4ce9-a77b-2687b4e757fa.png" width = "500" /> 
 
-<br><br><br>
+<br><br><br><br><br>
 <hr>
  
 #### 10
 # Vanilla Javascript Single Page TensorflowJS
 **Working examples that can be edited live and copyied to your own website.**   
  
-<img src="tensorflowJS-xor.png" width = "500" /> 
+<img src="tensorflowJS-xor.png" width = "600" /> 
 
 <br><br><br>
 <hr>
@@ -267,7 +267,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **WebSerial is an interesting combination of microcontrollers with Javascript webpages such as TensorflowJS and working on Desktop or Android Cell Phone. See demo page <a href="https://hpssjellis.github.io/my-examples-of-arduino-webUSB-webSerial/public/webserial-and-polyfill.html">here</a> which has links to the Arduino files. Teaching power of TensorflowJS, cheap microcontroller to connect with Actuators (to do something), possibly connect with Sensors, but a cell phone has a lot of sensors built in. Interesting potential here for education with minimal cost.**   
 
 
-<img src="https://user-images.githubusercontent.com/5605614/176287664-bd0f1893-c3df-4f50-bcc4-86091141569f.png" width = 700 />
+<img src="https://user-images.githubusercontent.com/5605614/176287664-bd0f1893-c3df-4f50-bcc4-86091141569f.png" width = 800 />
 <br><br><br> 
 <hr>
 
@@ -290,7 +290,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 
 
-<br><br><br>
+<br><br><br><br><br><br><br>
 <hr>
 
 #### 13
@@ -331,7 +331,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 
