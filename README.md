@@ -2,7 +2,7 @@
 
 
 
-##### version 0.0.3-8 updated June, 2022
+##### version 0.0.4-9 updated June, 2022
 
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
  
@@ -120,15 +120,15 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  </div>
 
 #### 1
-**Intro: Lightning Talks in Pecha Kucha Format**
+# Intro: Lightning Talks in Pecha Kucha Format**
 
-** ~15 slides, 20 seconds per slide works out to about 5 min per Presenter
-Traditional Business/Education Format: Powerpoint, PDF (Issue for audience not able to click links)
-But Coders use Github!
-So I made a Github README.md file that works with Javascript for both audio and automatic scrolling
+** ~15 slides, 20 seconds per slide works out to about 5 min per Presenter**
+**Traditional Business/Education Format: Powerpoint, PDF (Issue for audience not able to click links)**
+**But Coders use Github!**
+**So I made a Github README.md file that works with Javascript for both audio and automatic scrolling**
 
-**
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 
@@ -145,7 +145,7 @@ So I made a Github README.md file that works with Javascript for both audio and 
  
  
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 
