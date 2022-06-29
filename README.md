@@ -270,7 +270,9 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 
 <img src="https://user-images.githubusercontent.com/5605614/176287664-bd0f1893-c3df-4f50-bcc4-86091141569f.png" width = 800 />
-<br><br><br><br><br> 
+
+
+Combining WebSerial with EdgerImpulse WASM (Web Assembly) would be very interesting. See my WASM examples <a href="https://hpssjellis.github.io/my-examples-of-edge-impulse/public/index.html">here</a>. Note: these are very easy to get students to make and test on their cell phones.
 <hr>
 
 #### 12
