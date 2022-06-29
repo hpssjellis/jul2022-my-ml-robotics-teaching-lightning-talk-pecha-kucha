@@ -2,7 +2,7 @@
 
 
 
-##### version 0.0.4-9 updated June, 2022
+##### version 0.1.0-10 updated June, 2022
 
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
  
