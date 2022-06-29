@@ -209,8 +209,20 @@ Show how to do images and links. Note: To get the url just paste an image right 
 
 <br><br><br><br>
 <hr>
-
+ 
 #### 6
+# <a href="https://www.amazon.ca/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27">Raspberry Pi 4B</a>
+### All RPI's and other single board computers such as the <a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-2GB-Developer-Kit-Wireless-Adapter-Included-p-4707.html">NVIDIA® Jetson Nano™ 2GB Developer Kit </a> have the advantage of near full computer power with up to 40 pins for connectivity to sensors, actuators and built in Communication. Really the best situation, except for the larger amount of electricity used, hardware cost and larger size compared to other microcontrollers.
+
+![image](https://user-images.githubusercontent.com/5605614/176316438-fca02195-da34-4a78-b472-73345b93698e.png)
+ 
+# TinyML should be inexpensive
+### As Educators we purchase kits that allow students to experience many facets of Robotics and Embedded Machine Learning, however the big picture goal is for student's to be able to design specific combinations of components that they have a Proof of Concept that the components can do the job. The individual components can be very cheap. The $111 Arduino PortentaH7 chip costs $2.80
+
+<hr>
+
+
+#### 7
 # My Maker100 
 ### For the <a href="https://store-usa.arduino.cc/products/portenta-h7">Arduino PortentaH7</a> with the <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE">LoRa Vision Shield</a> and <a href="https://www.seeedstudio.com/Seeeduino-XIAO-Pre-Soldered-p-4747.html">Seeedstudio XIAO </a>  Github of my course at <a href="https://github.com/hpssjellis/maker100">https://github.com/hpssjellis/maker100</a>
 
@@ -221,46 +233,41 @@ Show how to do images and links. Note: To get the url just paste an image right 
 ![image](https://user-images.githubusercontent.com/5605614/176285054-ea98ff42-df6e-408a-b7c8-f480d5912d73.png)
 <hr>
 
-#### 7
-# <a href="https://www.amazon.ca/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27">Raspberry Pi 4B</a>
-### All RPI's and other single board computers such as the <a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-2GB-Developer-Kit-Wireless-Adapter-Included-p-4707.html">NVIDIA® Jetson Nano™ 2GB Developer Kit </a> have the advantage of near full computer power with up to 40 pins for connectivity to sensors, actuators and built in Communication. Really the best situation, except for the larger amount of electricity used, hardware cost and larger size compared to other microcontrollers.
-
-![image](https://user-images.githubusercontent.com/5605614/176316438-fca02195-da34-4a78-b472-73345b93698e.png)
-
-
-<hr>
 
 
 #### 8
-# TinyML should be inexpensive
-### As Educators we purchase kits that allow students to experience many facets of Robotics and Embedded Machine Learning, however the big picture goal is for student's to be able to design specific combinations of components that they have a Proof of Concept that the components can do the job. The individual components can be very cheap. The $111 Arduino PortentaH7 chip costs $2.80
+# Portenta Pro Community Solutions Arduino Library
+### Has over 100 examples to help MBED Arduino Coders get up and running fast. 
+ 
+<img src="ppcs08-main.png" width = 300 />
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
+
+ 
+ 
 #### 9
-# New Hardware 2023
-### What amazing hardware will come out in 2023? Cheaper, smaller, less electricity demands and more or specific connectivity. I am waiting for an inexpensive LoRaWan device.
- 
- 
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
- 
- 
-#### 10
 # <a href="https://www.tensorflow.org/js/">TensorflowJS</a> Can reach a large Web capable audience
-### In 2017 TensorflowJS was introduced originally as deeplearnJS, using TypeScript and some compiled Javascript. I spent a lot of time converting the @Google Brain code for Single page Vanilla Javascript that student's could use without installing anything, <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">beginner-tensorflowjs-examples-in-javascript</a> In my opinion TensorflowJS is the best, most powerful platform to truly teach Machine Learning to the largest audience. 
+### In 2017 TensorflowJS was introduced originally as deeplearnJS, using TypeScript and some compiled Javascript. I spent a lot of time converting the @Google Brain code for Single page Vanilla Javascript that student's could use without installing anything, <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/#tfjs-models">beginner-tensorflowjs-examples-in-javascript</a> In my opinion TensorflowJS is the best, most powerful platform to truly teach Machine Learning to the largest audience. 
  
 ### Note: I have converted TensorflowJS models to arduino <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow/tfjs-convert-to-arduino-header">here</a> but it is a bit complex and size is always an issue, much easier to work with EdgeImpulse!
 
 
 
-<img src="https://user-images.githubusercontent.com/5605614/176290714-58fa7196-fe53-4ce9-a77b-2687b4e757fa.png" width = 500 />
+<img src="https://user-images.githubusercontent.com/5605614/176290714-58fa7196-fe53-4ce9-a77b-2687b4e757fa.png"  />
 
 
 <hr>
  
+#### 10
+# Vanilla Javascript Single Page TensorflowJS
+### Working examples that can be edited live and copyied to your own website.
+ 
+<img src="tensorflowJS-xor.png"  /> 
+
+
+<hr>
  
 #### 11
 # WebSerial Possible Teaching Potential
@@ -299,7 +306,7 @@ Show how to do images and links. Note: To get the url just paste an image right 
 5. The $129 USD [Sony Spresense Kit](https://shop.framos.com/us/spresense) with Breakout Board and Camera and now works on the Arduino IDE. Absolutely nothing wrong with this board, I have just not yet got it doing Machine Learning on the Arduino IDE yet. Note: uses LED0, LED1, LED2, LED3 instead of LEDB, LEDG, LEDR <br><img src="https://user-images.githubusercontent.com/5605614/176248308-bad3aaa0-fa86-4b34-9a98-e140af242199.png"  width = 55/>
 6. The $25.50 USD [Arduino Nano-RP2040-Connect](https://store.arduino.cc/usa/nano-rp2040-connect-with-headers) Is very new but has lots of potential over the RPI Pico as it has WiFi and BLE onboard and the $4 USD [RPI Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) Amazing board for the price. <br><img src="https://user-images.githubusercontent.com/5605614/176248392-4cfa47f3-5533-40eb-a8f6-00b2faef2ae8.png"  width = 20/> 
 7. The $25.00 USD [ArducamPico-4ML](https://www.arducam.com/raspberry-pi-pico-machine-learning/) This board looks like it would be perfect for machine learning with a mini screen and camera but I have never got it properly working on the Arduino IDE.<br><img src="https://user-images.githubusercontent.com/5605614/176248456-b4cda708-2995-4f6b-8d02-47915015c2fb.png"  width = 50/> 
-
+8. What boards will be available in 2023? Cheaper, faster, more efficient. 
 <hr>
 
 #### 14
