@@ -172,13 +172,15 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 # <a href="https://keras.io/">Keras</a>, <a href="https://www.tensorflow.org/">Tensorflow</a> , <a href="https://pytorch.org/">Pytorch</a>, <a href="https://theano-pymc.readthedocs.io/en/latest/introduction.html">Theano</a> ...
  
 **The traditional way to teach Machine Learning and the subset Deep Learning is with these platforms. Mainly for students with some advanced Math skills. These platforms typically involve only the computer and not directly using sensors and/or sending output to actuators. Typically a known dataset is loaded and the Machine Learning model is manipulated to demonstrate understanding of the concept with the output generated for the computer screen.** 
+ 
+ **Tensorflow**
 
  ![image](https://user-images.githubusercontent.com/5605614/176306964-fbaff0bf-6e02-4f1a-a2db-e55132cecb70.png)
 
  
 **Note: <a href="Gitpod.io">https://gitpod.io/</a> can help enormously with teaching the above as most Github sites can be loaded into Gitpod (an online Browser docker) and ran with only a few starting commands. With a github login you just need to add to the front of a github URL ``` gitpod.io/#  ``` My Gitpod  (old) examples are <a href="https://hpssjellis.github.io/rocksetta-gitpod-links/">rocksetta-gitpod-links</a>**
  
-![image](https://user-images.githubusercontent.com/5605614/176257845-40bcfdf2-f3e2-4ae3-9ca9-59d7d2b20b35.png)
+![image](https://user-images.githubusercontent.com/5605614/176337919-108d2c72-6113-4195-a156-23e9775413b1.png)
 
 
 
@@ -205,7 +207,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 ![image](https://user-images.githubusercontent.com/5605614/176316438-fca02195-da34-4a78-b472-73345b93698e.png)
  
-# TinyML should be inexpensive
+### TinyML should be inexpensive
 **As Educators we purchase kits that allow students to experience many facets of Robotics and Embedded Machine Learning, however the big picture goal is for student's to be able to design specific combinations of components that they have a Proof of Concept that the components can do the job. The individual components can be very cheap. The $111 Arduino PortentaH7 chip costs $10.00**
 
 <hr>
