@@ -2,7 +2,7 @@
 
 
 
-##### version 0.1.0-11 updated June 28th, 2022
+##### version 0.1.1-12 updated June 28th, 2022
 
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
  
@@ -145,9 +145,9 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **I started my Data Science interests when I tried to understand patterns in music and developed a <a href="http://www.keyfreemusic.com/keyfreemusic/">sing-able</a> music notation and other stuff at <a href="https://rocksetta.com/">rocksetta.com</a>. This project is ongoing**  
 **In the early 1990's I was designing fully connected Neural Networks using Quick Pascal. (Not that hard to program), but they never worked, they just kept oscillating between solutions. I did other things until Tensorflow was made public in 2015. I knew this was something that students would benefit from but had to wait until 2017 when deeplearnJS came out.**
  
-<img src="https://user-images.githubusercontent.com/5605614/176365703-37896963-67d5-48c5-bcb2-543fb5ed7c19.png" width = 300 />
+<img src="https://user-images.githubusercontent.com/5605614/176365703-37896963-67d5-48c5-bcb2-543fb5ed7c19.png" width = 400 />
  
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <hr>
 
 
@@ -237,7 +237,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 # <a href="https://github.com/hpssjellis/portenta-pro-community-solutions">Portenta Pro Community Solutions </a> Arduino Library
 **Has over 100 examples to help MBED Arduino Coders get up and running fast.** 
  
-<img src="ppcs08-main.png" width = 850 />
+<img src="ppcs08-main.png" width = 800 />
  
 <br><br><br><br><br><br><br><br><br><br>
 <hr>
@@ -271,7 +271,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **WebSerial is an interesting combination of microcontrollers with Javascript webpages such as TensorflowJS and working on Desktop or Android Cell Phone. See demo page <a href="https://hpssjellis.github.io/my-examples-of-arduino-webUSB-webSerial/public/webserial-and-polyfill.html">here</a> which has links to the Arduino files. Teaching power of TensorflowJS, cheap microcontroller to connect with Actuators (to do something), possibly connect with Sensors, but a cell phone has a lot of sensors built in. Interesting potential here for education with minimal cost.**   
 
 
-<img src="https://user-images.githubusercontent.com/5605614/176287664-bd0f1893-c3df-4f50-bcc4-86091141569f.png" width = 800 />
+<img src="https://user-images.githubusercontent.com/5605614/176287664-bd0f1893-c3df-4f50-bcc4-86091141569f.png" width = 700 />
 
 
 Combining WebSerial with EdgerImpulse WASM (Web Assembly) would be very interesting. See my WASM examples <a href="https://hpssjellis.github.io/my-examples-of-edge-impulse/public/index.html">here</a>. Note: these are very easy to get students to make and test on their cell phones.
