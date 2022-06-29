@@ -195,7 +195,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
 **Also by <a href="https://edgeimpulse.com/university">EdgeImpulse University</a> Github of the course at <a href="https://github.com/edgeimpulse/courseware-embedded-machine-learning">courseware-embedded-machine-learning</a>**
 
-<img src="https://user-images.githubusercontent.com/5605614/176258229-111d35ef-e27f-4c83-9abf-e9e264306b73.png" width = 300 />
+<img src="https://user-images.githubusercontent.com/5605614/176258229-111d35ef-e27f-4c83-9abf-e9e264306b73.png" width = 300 />  
 **Often a university can get a few free sets of the Arduino Tiny Machine Learning Kits or other hardware from either of these groups.**
 
 <br><br><br><br>
@@ -227,7 +227,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 
 #### 8
-# Portenta Pro Community Solutions Arduino Library
+# <a href="https://github.com/hpssjellis/portenta-pro-community-solutions">Portenta Pro Community Solutions </a> Arduino Library
 **Has over 100 examples to help MBED Arduino Coders get up and running fast.** 
  
 <img src="ppcs08-main.png" width = 900 />
