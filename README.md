@@ -178,7 +178,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  ![image](https://user-images.githubusercontent.com/5605614/176306964-fbaff0bf-6e02-4f1a-a2db-e55132cecb70.png)
 
  
-**Note: <a href="Gitpod.io">https://gitpod.io/</a> can help enormously with teaching the above as most Github sites can be loaded into Gitpod (an online Browser docker) and ran with only a few starting commands. With a github login you just need to add to the front of a github URL ``` gitpod.io/#  ``` My Gitpod  (old) examples are <a href="https://hpssjellis.github.io/rocksetta-gitpod-links/">rocksetta-gitpod-links</a>**
+**Note: <a href="Gitpod.io">https://gitpod.io/</a> can help enormously with teaching the above as most Github sites can be loaded into Gitpod (an online browser docker) and ran with only a few starting commands. With a github login you just need to add to the front of a github URL ``` gitpod.io/#  ``` My Gitpod  (old) examples are <a href="https://hpssjellis.github.io/rocksetta-gitpod-links/">rocksetta-gitpod-links</a>**
  
 ![image](https://user-images.githubusercontent.com/5605614/176337919-108d2c72-6113-4195-a156-23e9775413b1.png)
 
