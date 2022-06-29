@@ -128,7 +128,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **So I made a Github README.md file that works with Javascript for both audio and automatic scrolling**  
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 
@@ -145,7 +145,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
  
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 
@@ -164,7 +164,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
 **Issues: The Online is simpler but advanced issues are: How to program the embedded device after analysis, how to use other sensors, and ability to do advanced model manipulation.**   
 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 
@@ -182,7 +182,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
 ![image](https://user-images.githubusercontent.com/5605614/176337919-108d2c72-6113-4195-a156-23e9775413b1.png)
 
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <hr>
 
@@ -198,7 +198,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 <img src="https://user-images.githubusercontent.com/5605614/176258229-111d35ef-e27f-4c83-9abf-e9e264306b73.png" width = 300 />  
 **Often a university can get a few free sets of the Arduino Tiny Machine Learning Kits or other hardware from either of these groups.**
 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 <hr>
  
 #### 6
@@ -209,7 +209,8 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
 ### TinyML should be inexpensive
 **As Educators we purchase kits that allow students to experience many facets of Robotics and Embedded Machine Learning, however the big picture goal is for student's to be able to design specific combinations of components that they have a Proof of Concept that the components can do the job. The individual components can be very cheap. The $111 Arduino PortentaH7 chip costs $10.00**
-
+ 
+<br><br><br><br><br><br><br>
 <hr>
 
 
@@ -222,6 +223,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **I believe that Machine Learning needs to be taught within an understanding of Robotic sensors (flex, touch, light...), actuators (DC motors, stepper, servo, LED's... ), communication (Ethernet, WiFI, BLE, LoRa) and PCB design ( best PCB video <a href="https://www.youtube.com/watch?v=gjPNYMRA0m8&list=PLbKMtvtYbdPMZfzGuVTdc0MWKrFvU4nsu&index=3">here</a>). The Maker100 course quickly touches on all these areas and leaves more advanced topics to the as yet not developed <a href="https://github.com/hpssjellis/maker101">Maker101</a> course.**
 
 ![image](https://user-images.githubusercontent.com/5605614/176285054-ea98ff42-df6e-408a-b7c8-f480d5912d73.png)
+ 
 <hr>
 
 
@@ -265,6 +267,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 
 <img src="https://user-images.githubusercontent.com/5605614/176287664-bd0f1893-c3df-4f50-bcc4-86091141569f.png" width = 500 />
+ 
 <hr>
 
 #### 12
@@ -284,7 +287,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <hr>
 
 #### 13
@@ -297,6 +300,8 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 6. The $25.50 USD [Arduino Nano-RP2040-Connect](https://store.arduino.cc/usa/nano-rp2040-connect-with-headers) Is very new but has lots of potential over the RPI Pico as it has WiFi and BLE onboard and the $4 USD [RPI Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) Amazing board for the price. <br><img src="https://user-images.githubusercontent.com/5605614/176248392-4cfa47f3-5533-40eb-a8f6-00b2faef2ae8.png"  width = 20/> 
 7. The $25.00 USD [ArducamPico-4ML](https://www.arducam.com/raspberry-pi-pico-machine-learning/) This board looks like it would be perfect for machine learning with a mini screen and camera but I have never got it properly working on the Arduino IDE.<br><img src="https://user-images.githubusercontent.com/5605614/176248456-b4cda708-2995-4f6b-8d02-47915015c2fb.png"  width = 50/> 
 8. What boards will be available in 2023? Cheaper, faster, more efficient. 
+ 
+ 
 <hr>
 
 #### 14
@@ -309,7 +314,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  ![image](https://user-images.githubusercontent.com/5605614/176255114-435ef8c9-1989-4761-ae3b-daebea51492f.png)
 
 
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 15
@@ -323,7 +328,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
 
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 
