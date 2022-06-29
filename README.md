@@ -289,7 +289,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 <hr>
 
 #### 13
-# Boards other than the $57.50 <a href="https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit">Arduino ML Kit</a> and $111 <a href="https://store-usa.arduino.cc/products/portenta-h7">PortentaH7</a> mentioned earlier)**
+# Boards other than the $57.50 <a href="https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit">Arduino ML Kit</a> and $111 <a href="https://store-usa.arduino.cc/products/portenta-h7">PortentaH7</a> mentioned earlier)
 1. The $5.40 USD [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)  Only a limited number of pins, but works with my Arduino MBED code<br><img src="https://user-images.githubusercontent.com/5605614/176248216-7a99f725-e3c6-4698-a1e5-56bfd34dcf54.png" width = 40/><br>
 2. The $37 USD [Seeeduino Wio Terminal](https://www.seeedstudio.com/Wio-Terminal-p-4509.html) <br><img src="https://user-images.githubusercontent.com/5605614/176248954-38cad413-3c2d-47cb-84a3-60359ba7e863.png" width = 70/>   
 3. The $115.00 USD [NiclaVision](https://store-usa.arduino.cc/products/nicla-vision?selectedStore=us) could be very good for Color Vision, sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/157479032-f93ac6e1-1139-4886-bf40-9dfc6e8c2b9c.png" width = 70/>
@@ -316,11 +316,11 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 #### 15
 # Summary:
  
-**I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a> Canadian High School Technology Teacher**
+**I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a> Canadian High School Technology Teacher.**
  
-**<a href="https://github.com/hpssjellis?tab=repositories"> Github Profile</a>**
+**<a href="https://github.com/hpssjellis?tab=repositories"> Jeremy Ellis Github Profile</a>**
  
-**Lots of ways to teach Machine Learning and even more will be available in the future**  
+**Lots of ways to teach Machine Learning and even more will be available in the future.**  
  
 
 
