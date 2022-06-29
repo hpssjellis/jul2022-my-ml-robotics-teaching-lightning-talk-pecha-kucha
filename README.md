@@ -120,14 +120,14 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  </div>
 
 #### 1
-# Intro: Lightning Talks in Pecha Kucha Format 
+**Intro: Lightning Talks in Pecha Kucha Format**
 
-### ~15 slides, 20 seconds per slide works out to about 5 min per presenter
-### Traditional Business/Education Format: Powerpoint, PDF (Issue for audience not able to click links)
-### But Coders use Github!
-### So I made a Github README.md file that works with Javascript for both audio and automatic scrolling
+** ~15 slides, 20 seconds per slide works out to about 5 min per Presenter
+Traditional Business/Education Format: Powerpoint, PDF (Issue for audience not able to click links)
+But Coders use Github!
+So I made a Github README.md file that works with Javascript for both audio and automatic scrolling
 
-
+**
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
@@ -144,17 +144,6 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 ### In the early 1990's I was designing fully connected Neural Networks using Quick Pascal. (Not that hard to program), but they never worked, they just kept oscillating between solutions. I did other things until Tensorflow was made public in 2015. I knew this was something that students would benefit from but has to wait until 2017 when deeplearnJS came out.
  
  
- 
- 
- 
-<!--   Keep for reference
-Show how to do images and links. Note: To get the url just paste an image right here
-
-<img src="https://user-images.githubusercontent.com/5605614/175780835-2b0d64a4-0ba8-4c90-9f05-fb4e89cd6980.png" width=700 />
-
-[https://github.com/hpssjellis](https://github.com/hpssjellis)
-
--->
 
 <br><br><br><br><br><br>
 <hr>
