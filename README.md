@@ -333,7 +333,10 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
 **It is an exciting world with lots of changes due to Machine Learning, as Educators I feel we have a responsibilty to promote understanding of this new tool and not just Machine Learning but how it all fits together with Embedded Devices, Sensors, Actuators, Communication and PCB Design.**
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ <img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="500" /> 
+ 
+
+ <br><br><br><br><br>
 <hr>
 
 
