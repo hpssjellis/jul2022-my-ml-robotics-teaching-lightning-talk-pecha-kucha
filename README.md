@@ -128,7 +128,9 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **So I made a Github README.md file that works with Javascript for both audio and automatic scrolling**  
 **This Lightning Talk is a summary of what I am working on to simplify Machine Learning for any interested student and Educators.**
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+![image](https://user-images.githubusercontent.com/5605614/176367069-0d77f700-2863-47e2-b0d8-7bdf8e0433b5.png)
+
+ <br><br><br><br><br>
 <hr>
 
 
