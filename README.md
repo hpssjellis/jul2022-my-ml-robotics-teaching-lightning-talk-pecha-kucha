@@ -120,9 +120,9 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  </div>
 
 #### 1
-# Intro: Lightning Talks in Pecha Kucha Format**
+# Intro: Lightning Talks in Pecha Kucha Format
 
-** ~15 slides, 20 seconds per slide works out to about 5 min per Presenter**
+** ~15 slides, 20 seconds per slide works out to about 5 min per Presenter**  
 **Traditional Business/Education Format: Powerpoint, PDF (Issue for audience not able to click links)**
 **But Coders use Github!**
 **So I made a Github README.md file that works with Javascript for both audio and automatic scrolling**
@@ -312,7 +312,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 <hr>
 
 #### 15
-## Exit
+## Summary
  
 ### I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a> Canadian High School Technology Teacher
  
@@ -320,7 +320,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 ### <a href="https://ca.linkedin.com/in/jeremy-ellis-4237a9bb">Linkedin </a>  
 ### Use this information at your own risk!
  
-
+** Lots of ways to teach Machine Learning and even more will be available in the future**
  
 
 
