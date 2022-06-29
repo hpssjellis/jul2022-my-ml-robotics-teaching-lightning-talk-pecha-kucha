@@ -316,7 +316,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
  ![image](https://user-images.githubusercontent.com/5605614/176255114-435ef8c9-1989-4761-ae3b-daebea51492f.png)
 
-
+ My animation/3D Printing students can do a lot of PCB design from this one 6 minute video <a href="https://www.youtube.com/watch?v=gjPNYMRA0m8&list=PLbKMtvtYbdPMZfzGuVTdc0MWKrFvU4nsu&index=2">here</a> about <a href="https://easyeda.com/">EasyEDA</a> and <a href="https://jlcpcb.com/">JLCPCB</a>. 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
@@ -329,7 +329,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
 **Lots of ways to teach Machine Learning and even more will be available in the future.**  
  
-
+**It is an exciting world with lots of changes due to Machine Learning, as Educators I feel we have a responsibilty to promote understanding of this new tool and not just Machine Learning but how it all fits together with Embedded Devices, Sensors, Actuators, Communication and PCB Design.**
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
