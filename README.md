@@ -230,9 +230,9 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 # <a href="https://github.com/hpssjellis/portenta-pro-community-solutions">Portenta Pro Community Solutions </a> Arduino Library
 **Has over 100 examples to help MBED Arduino Coders get up and running fast.** 
  
-<img src="ppcs08-main.png" width = 900 />
+<img src="ppcs08-main.png" width = 800 />
  
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <hr>
 
 
@@ -245,8 +245,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **Note: I have converted TensorflowJS models to arduino <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow/tfjs-convert-to-arduino-header">here</a> but it is a bit complex and size is always an issue, much easier to work with EdgeImpulse!**
 
 
-
-<img src="https://user-images.githubusercontent.com/5605614/176290714-58fa7196-fe53-4ce9-a77b-2687b4e757fa.png"  />
+<img src="https://user-images.githubusercontent.com/5605614/176290714-58fa7196-fe53-4ce9-a77b-2687b4e757fa.png" width = "500" /> 
 
 
 <hr>
@@ -255,7 +254,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 # Vanilla Javascript Single Page TensorflowJS
 **Working examples that can be edited live and copyied to your own website.**   
  
-<img src="tensorflowJS-xor.png" width = "700" /> 
+<img src="tensorflowJS-xor.png" width = "500" /> 
 
 
 <hr>
