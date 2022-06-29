@@ -2,7 +2,7 @@
 
 
 
-##### version 0.1.1-12 updated June 28th, 2022
+##### version 0.1.2-14 updated June 28th, 2022
 
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
  
@@ -15,7 +15,7 @@ This Github Repository [https://github.com/hpssjellis/my-robotics-machine-learni
 
 Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="20" >
 
-<div id="myNumSlides" style=" position:sticky; top:0px; left:20px; height:25px; "> ...</div>  <br>
+<div id="myNumSlides" style=" position:sticky; top:0px; left:20px; height:25px; "> <input type=button value="Show" style="height:25px; " onclick="{document.getElementById('myStick').style.display = 'inline'; }"></div>  <br>
 
   
 
