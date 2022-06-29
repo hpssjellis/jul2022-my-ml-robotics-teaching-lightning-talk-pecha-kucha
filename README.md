@@ -255,7 +255,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
 #### 10
 # Vanilla Javascript Single Page TensorflowJS
-**Working examples that can be edited live and copyied to your own website.**   
+**A Working xOr example <a href="https://www.rocksetta.com/tensorflowjs/beginner-keras/20keras-xOr.html">here</a> that can be edited live and copied to your own website.**   
  
 <img src="tensorflowJS-xor.png" width = "800" /> 
 
