@@ -126,7 +126,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **Traditional Business/Education Format: Powerpoint, PDF (Issue for audience not able to click links)**  
 **But Coders use Github!**  
 **So I made a Github README.md file that works with Javascript for both audio and automatic scrolling**  
-
+**This Lightning Talk is a Summary of What I am working on to Simplify Machine Learning for any interested student.**
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
@@ -141,7 +141,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **Presently teaching Animation, Coding, 3D Printing and Robotics with Machine Learning**  
 
 **I started my Data Science interests when I tried to understand patterns in music and developed a sing-able music notation. <a href="https://rocksetta.com/">rocksetta.com</a>. This project is ongoing**  
-**In the early 1990's I was designing fully connected Neural Networks using Quick Pascal. (Not that hard to program), but they never worked, they just kept oscillating between solutions. I did other things until Tensorflow was made public in 2015. I knew this was something that students would benefit from but has to wait until 2017 when deeplearnJS came out.**
+**In the early 1990's I was designing fully connected Neural Networks using Quick Pascal. (Not that hard to program), but they never worked, they just kept oscillating between solutions. I did other things until Tensorflow was made public in 2015. I knew this was something that students would benefit from but had to wait until 2017 when deeplearnJS came out.**
  
  
 
@@ -187,7 +187,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 <hr>
 
 #### 5
-# EdgeImpulse and the <a href="https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit"> Arduino Tiny Machine Learning Kit</a>
+# EdgeImpulse and the $58.00 <a href="https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit"> Arduino Tiny Machine Learning Kit</a>
 
 **Very well supported by Harvard SEAS (School of Engineering and Applied Science) Education <a href="http://tinyml.seas.harvard.edu/">TinyMLEdu</a>  The Github at <a href="https://github.com/tinyMLx/courseware/tree/master/edX">tinyMLx Github</a>**
  
@@ -216,9 +216,9 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 #### 7
 # My Maker100 
-**For the <a href="https://store-usa.arduino.cc/products/portenta-h7">Arduino PortentaH7</a> with the <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE">LoRa Vision Shield</a> and <a href="https://www.seeedstudio.com/Seeeduino-XIAO-Pre-Soldered-p-4747.html">Seeedstudio XIAO </a>  Github of my course at <a href="https://github.com/hpssjellis/maker100">https://github.com/hpssjellis/maker100</a>**
+**For the $111. <a href="https://store-usa.arduino.cc/products/portenta-h7">Arduino PortentaH7</a> with the $68 <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE">LoRa Vision Shield</a> and/or $7<a href="https://www.seeedstudio.com/Seeeduino-XIAO-Pre-Soldered-p-4747.html">Seeedstudio XIAO </a>  Github of my course at <a href="https://github.com/hpssjellis/maker100">https://github.com/hpssjellis/maker100</a>**
 
-**My main Robotics and Machine Learning course is called <a href="https://github.com/hpssjellis/maker100">Maker 100</a> and is fully on Github, with plans to make all parts available for individual equipment purchase and a fully online component for technologically capable teenagers to follow before going to University.**
+**My main Robotics and Machine Learning course is called <a href="https://github.com/hpssjellis/maker100">Maker 100</a> and is fully on Github, with plans to make all parts available for individual equipment purchase and a fully online component for technologically capable teenagers to complete before going to University.**
 
 **I believe that Machine Learning needs to be taught within an understanding of Robotic sensors (flex, touch, light...), actuators (DC motors, stepper, servo, LED's... ), communication (Ethernet, WiFI, BLE, LoRa) and PCB design ( best PCB video <a href="https://www.youtube.com/watch?v=gjPNYMRA0m8&list=PLbKMtvtYbdPMZfzGuVTdc0MWKrFvU4nsu&index=3">here</a>). The Maker100 course quickly touches on all these areas and leaves more advanced topics to the as yet not developed <a href="https://github.com/hpssjellis/maker101">Maker101</a> course.**
 
