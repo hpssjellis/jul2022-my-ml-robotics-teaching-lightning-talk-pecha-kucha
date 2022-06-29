@@ -223,7 +223,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **I believe that Machine Learning needs to be taught within an understanding of Robotic sensors (flex, touch, light...), actuators (DC motors, stepper, servo, LED's... ), communication (Ethernet, WiFI, BLE, LoRa) and PCB design ( best PCB video <a href="https://www.youtube.com/watch?v=gjPNYMRA0m8&list=PLbKMtvtYbdPMZfzGuVTdc0MWKrFvU4nsu&index=3">here</a>). The Maker100 course quickly touches on all these areas and leaves more advanced topics to the as yet not developed <a href="https://github.com/hpssjellis/maker101">Maker101</a> course.**
 
 ![image](https://user-images.githubusercontent.com/5605614/176285054-ea98ff42-df6e-408a-b7c8-f480d5912d73.png)
- 
+<br><br><br><br><br><br><br> 
 <hr>
 
 
@@ -232,9 +232,9 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 # <a href="https://github.com/hpssjellis/portenta-pro-community-solutions">Portenta Pro Community Solutions </a> Arduino Library
 **Has over 100 examples to help MBED Arduino Coders get up and running fast.** 
  
-<img src="ppcs08-main.png" width = 800 />
+<img src="ppcs08-main.png" width = 850 />
  
-
+<br><br><br><br><br><br><br>
 <hr>
 
 
