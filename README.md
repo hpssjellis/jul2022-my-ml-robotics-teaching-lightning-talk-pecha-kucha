@@ -217,7 +217,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 #### 7
 # My Maker100 
-**For the $111. <a href="https://store-usa.arduino.cc/products/portenta-h7">Arduino PortentaH7</a> with the $68 <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE">LoRa Vision Shield</a> and/or $7<a href="https://www.seeedstudio.com/Seeeduino-XIAO-Pre-Soldered-p-4747.html">Seeedstudio XIAO </a>  Github of my course at <a href="https://github.com/hpssjellis/maker100">https://github.com/hpssjellis/maker100</a>**
+**For the $111 <a href="https://store-usa.arduino.cc/products/portenta-h7">Arduino PortentaH7</a> with the $68 <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE">LoRa Vision Shield</a> and/or $7 <a href="https://www.seeedstudio.com/Seeeduino-XIAO-Pre-Soldered-p-4747.html">Seeedstudio XIAO </a>  Github of my course at <a href="https://github.com/hpssjellis/maker100">https://github.com/hpssjellis/maker100</a>**
 
 **My main Robotics and Machine Learning course is called <a href="https://github.com/hpssjellis/maker100">Maker 100</a> and is fully on Github, with plans to make all parts available for individual equipment purchase and a fully online component for technologically capable teenagers to complete before going to University.**
 
