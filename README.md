@@ -142,7 +142,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **Canadian High School Technology Teacher, with greater than 30 years experience teaching coding.**   
 **Presently teaching Animation, Coding, 3D Printing and Robotics with Machine Learning**  
 
-**I started my Data Science interests when I tried to understand patterns in music and developed a sing-able music notation. <a href="https://rocksetta.com/">rocksetta.com</a>. This project is ongoing**  
+**I started my Data Science interests when I tried to understand patterns in music and developed a <a href="http://www.keyfreemusic.com/keyfreemusic/">sing-able</a> music notation and other stuff at <a href="https://rocksetta.com/">rocksetta.com</a>. This project is ongoing**  
 **In the early 1990's I was designing fully connected Neural Networks using Quick Pascal. (Not that hard to program), but they never worked, they just kept oscillating between solutions. I did other things until Tensorflow was made public in 2015. I knew this was something that students would benefit from but had to wait until 2017 when deeplearnJS came out.**
  
 <img src="https://user-images.githubusercontent.com/5605614/176365703-37896963-67d5-48c5-bcb2-543fb5ed7c19.png" width = 400 />
