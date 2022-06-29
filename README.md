@@ -136,7 +136,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 # Who:
 
 **I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>**  
-**<a href="https://github.com/hpssjellis?tab=repositories"> Github Profile</a>**   
+**<a href="https://github.com/hpssjellis"> Jeremy Ellis Github Profile</a>**   
 **Canadian High School Technology Teacher, with greater than 30 years experience teaching coding.**   
 **Presently teaching Animation, Coding, 3D Printing and Robotics with Machine Learning**  
 
@@ -325,7 +325,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
 **I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a> Canadian High School Technology Teacher.**
  
-**<a href="https://github.com/hpssjellis?tab=repositories"> Jeremy Ellis Github Profile</a>**
+**<a href="https://github.com/hpssjellis"> Jeremy Ellis Github Profile</a>**
  
 **Lots of ways to teach Machine Learning and even more will be available in the future.**  
  
