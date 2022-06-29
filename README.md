@@ -126,7 +126,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **Traditional Business/Education Format: Powerpoint, PDF (Issue for audience not able to click links)**  
 **But Coders use Github!**  
 **So I made a Github README.md file that works with Javascript for both audio and automatic scrolling**  
-**This Lightning Talk is a Summary of What I am working on to Simplify Machine Learning for any interested student.**
+**This Lightning Talk is a summary of what I am working on to simplify Machine Learning for any interested student and Educators.**
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
