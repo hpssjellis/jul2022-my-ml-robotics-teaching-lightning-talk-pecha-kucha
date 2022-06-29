@@ -2,7 +2,7 @@
 
 
 
-##### version 0.1.0-10 updated June, 2022
+##### version 0.1.0-11 updated June 28th, 2022
 
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
  
@@ -143,9 +143,10 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **I started my Data Science interests when I tried to understand patterns in music and developed a sing-able music notation. <a href="https://rocksetta.com/">rocksetta.com</a>. This project is ongoing**  
 **In the early 1990's I was designing fully connected Neural Networks using Quick Pascal. (Not that hard to program), but they never worked, they just kept oscillating between solutions. I did other things until Tensorflow was made public in 2015. I knew this was something that students would benefit from but had to wait until 2017 when deeplearnJS came out.**
  
- 
+ ![image](https://user-images.githubusercontent.com/5605614/176365703-37896963-67d5-48c5-bcb2-543fb5ed7c19.png)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 <hr>
 
 
