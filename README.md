@@ -342,7 +342,7 @@ Template for this from <a href="https://github.com/hpssjellis/pecha-kucha-lightn
 
 
 
-### By Jeremy Ellis Twitter @Rocksetta Use at your own Risk!
+ ### By Jeremy Ellis Twitter <a href="https://twitter.com/rocksetta">@Rocksetta </a> Use at your own Risk!
 
 
 
