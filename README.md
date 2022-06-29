@@ -145,7 +145,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 **I started my Data Science interests when I tried to understand patterns in music and developed a sing-able music notation. <a href="https://rocksetta.com/">rocksetta.com</a>. This project is ongoing**  
 **In the early 1990's I was designing fully connected Neural Networks using Quick Pascal. (Not that hard to program), but they never worked, they just kept oscillating between solutions. I did other things until Tensorflow was made public in 2015. I knew this was something that students would benefit from but had to wait until 2017 when deeplearnJS came out.**
  
-<img src="https://user-images.githubusercontent.com/5605614/176365703-37896963-67d5-48c5-bcb2-543fb5ed7c19.png" width = 500 />
+<img src="https://user-images.githubusercontent.com/5605614/176365703-37896963-67d5-48c5-bcb2-543fb5ed7c19.png" width = 400 />
  
 <br><br><br><br><br><br>
 <hr>
@@ -333,7 +333,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  
 **It is an exciting world with lots of changes due to Machine Learning, as Educators I feel we have a responsibilty to promote understanding of this new tool and not just Machine Learning but how it all fits together with Embedded Devices, Sensors, Actuators, Communication and PCB Design.**
 
- <img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="500" /> 
+ <img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="400" /> 
  
 
  <br><br><br><br><br>
