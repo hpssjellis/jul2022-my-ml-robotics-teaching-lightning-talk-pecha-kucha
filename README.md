@@ -2,7 +2,7 @@
 
 
 
-##### version 0.1.2-14 updated June 28th, 2022
+##### version 0.1.3-15 updated June 28th, 2022
 
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
  
@@ -195,11 +195,11 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 **Very well supported by Harvard SEAS (School of Engineering and Applied Science) Education <a href="http://tinyml.seas.harvard.edu/">TinyMLEdu</a>  The Github at <a href="https://github.com/tinyMLx/courseware/tree/master/edX">tinyMLx Github</a>**
  
-<img src="https://user-images.githubusercontent.com/5605614/176305111-3c0cc679-9b9e-4939-8e04-9d9a45f17435.png" width = 300 />
+<img src="https://user-images.githubusercontent.com/5605614/176305111-3c0cc679-9b9e-4939-8e04-9d9a45f17435.png" width = 400 />
  
 **Also by <a href="https://edgeimpulse.com/university">EdgeImpulse University</a> Github of the course at <a href="https://github.com/edgeimpulse/courseware-embedded-machine-learning">courseware-embedded-machine-learning</a>**
 
-<img src="https://user-images.githubusercontent.com/5605614/176258229-111d35ef-e27f-4c83-9abf-e9e264306b73.png" width = 300 />  
+<img src="https://user-images.githubusercontent.com/5605614/176258229-111d35ef-e27f-4c83-9abf-e9e264306b73.png" width = 400 />  
 **Often a university can get a few free sets of the Arduino Tiny Machine Learning Kits or other hardware from either of these groups.**
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
